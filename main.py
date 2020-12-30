@@ -36,6 +36,8 @@ def scrape():
         for child in children:
             # print(child.findChild("span", recursive=False).text.strip())
             qwe=child.findChildren("span", attrs={'class': 'questions-name'}, recursive=False)
+            rty=qwe[0]
+            print(rty.text.strip())
             # print(child)
     # for ele in myuls:
     #     print(ele)
