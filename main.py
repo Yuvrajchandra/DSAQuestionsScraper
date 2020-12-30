@@ -30,6 +30,7 @@ def scrape():
     driver.find_element_by_xpath("//button[@type='submit']").click()
     time.sleep(5)
     Question_urls = []
+    id = 1
 
     soup = BeautifulSoup(driver.page_source, "html.parser")
 
@@ -38,12 +39,8 @@ def scrape():
         children = ele.findChildren("a" , recursive=False)
         question = {}
 
+        question['id'] = id
 
-        # Question Urls
-        for child in children:
-            question['link'] = child['href']
-            # Question_urls.append(child['href'])
-            # print(child['href'])
 
         # Question Names
         for child in children:
@@ -51,7 +48,18 @@ def scrape():
             rty=qwe[0]
             question['name'] = rty.text.strip()
             # print(rty.text.strip())
+
+            
+        # Question Urls
+        for child in children:
+            question['link'] = child['href']
+            # Question_urls.append(child['href'])
+            # print(child['href'])
+
+
+
         questions_data.append(question)
+        id = id + 1
 
     # print(len(myuls))
     # print(len(Question_urls))
