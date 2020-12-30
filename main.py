@@ -19,16 +19,28 @@ def scrape():
     time.sleep(3)
     username = driver.find_element_by_xpath("//input[@type='email']")
     password = driver.find_element_by_xpath("//input[@type='password']")
-    username.send_keys("Your Email Id")
-    password.send_keys("Your Password")
+    username.send_keys("Singhyuvraj179@gmail.com")
+    password.send_keys("Qwerty@123")
     driver.find_element_by_xpath("//button[@type='submit']").click()
     time.sleep(5)
     soup = BeautifulSoup(driver.page_source, "html.parser")
-    myuls = soup.find_all('a')
-    myuls = soup.findAll('span', attrs={'class': 'questions-name'})
-    for ele in myuls:
-        print(ele)
+    links_with_text = []
+    # myuls = soup.find_all('a')
+    # myuls = soup.findAll('span', attrs={'class': 'questions-name'})
+    # for ele in myuls:
+    #     print(ele)
 
+    myuls = soup.findAll('li', attrs={'class': 'collection-item'})
+    for ele in myuls:
+        children = ele.findChildren("a" , recursive=False)
+        for child in children:
+            # print(child.findChild("span", recursive=False).text.strip())
+            qwe=child.findChildren("span", attrs={'class': 'questions-name'}, recursive=False)
+            # print(child)
+    # for ele in myuls:
+    #     print(ele)
+    print(len(myuls))
+    # print(links_with_text)
 
     # # myuls = soup.findAll('span', attrs={'class': 'questions-name'})
     # # myuls = soup.findAll('span')
