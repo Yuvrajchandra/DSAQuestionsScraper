@@ -14,7 +14,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 def scrape():
 
-
+    questions_data = []
     PEPCODING_QUESTIONS_LIST_URL = 'https://www.pepcoding.com/most-important-interview-questions-list-for-product-based-companies'
 
     # Setting up Chrome Driver Using Selenium
@@ -36,21 +36,27 @@ def scrape():
     myuls = soup.findAll('li', attrs={'class': 'collection-item'})
     for ele in myuls:
         children = ele.findChildren("a" , recursive=False)
+        question = {}
 
 
         # Question Urls
         for child in children:
-            Question_urls.append(child['href'])
+            question['link'] = child['href']
+            # Question_urls.append(child['href'])
             # print(child['href'])
 
         # Question Names
-        # for child in children:
-        #     qwe=child.findChildren("span", attrs={'class': 'questions-name'}, recursive=False)
-        #     rty=qwe[0]
-        #     print(rty.text.strip())
+        for child in children:
+            qwe=child.findChildren("span", attrs={'class': 'questions-name'}, recursive=False)
+            rty=qwe[0]
+            question['name'] = rty.text.strip()
+            # print(rty.text.strip())
+        questions_data.append(question)
 
     # print(len(myuls))
-    print(len(Question_urls))
+    # print(len(Question_urls))
+    print(questions_data)
+    print(len(questions_data))
 
 
 
