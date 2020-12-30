@@ -1,0 +1,2542 @@
+[
+    {
+        "id": 1,
+        "name": "K-Concatenation",
+        "link": "https://www.codechef.com/JAN18/problems/KCON/"
+    },
+    {
+        "id": 2,
+        "name": "Maximum Contiguous Circular Subarray Sum",
+        "link": "https://www.geeksforgeeks.org/maximum-contiguous-circular-sum/"
+    },
+    {
+        "id": 3,
+        "name": "Find Subarray With Given Sum",
+        "link": "https://www.geeksforgeeks.org/find-subarray-with-given-sum/"
+    },
+    {
+        "id": 4,
+        "name": "Equilibrium Index Of An Array",
+        "link": "https://www.geeksforgeeks.org/equilibrium-index-of-an-array/"
+    },
+    {
+        "id": 5,
+        "name": "Maximum Sum Increasing Subsequence",
+        "link": "https://www.geeksforgeeks.org/dynamic-programming-set-14-maximum-sum-increasing-subsequence/"
+    },
+    {
+        "id": 6,
+        "name": "Convert Array Into Zig Zag Fashion",
+        "link": "https://www.geeksforgeeks.org/convert-array-into-zig-zag-fashion/"
+    },
+    {
+        "id": 7,
+        "name": "Find A Pair With The Given Difference",
+        "link": "https://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/"
+    },
+    {
+        "id": 8,
+        "name": "Chocolate Distribution Problem",
+        "link": "https://www.geeksforgeeks.org/chocolate-distribution-problem/"
+    },
+    {
+        "id": 9,
+        "name": "Minimum Number of Platforms Required for a Railway/Bus Station",
+        "link": "https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/"
+    },
+    {
+        "id": 10,
+        "name": "Trapping Rain Water",
+        "link": "https://www.geeksforgeeks.org/trapping-rain-water/"
+    },
+    {
+        "id": 11,
+        "name": "Stock Buy Sell to Maximize Profit",
+        "link": "https://www.geeksforgeeks.org/stock-buy-sell/"
+    },
+    {
+        "id": 12,
+        "name": "Inplace Rotate Square Matrix By 90 Degrees",
+        "link": "https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/"
+    },
+    {
+        "id": 13,
+        "name": "Find k Pairs With Smallest Sums In Two Arrays",
+        "link": "https://www.geeksforgeeks.org/find-k-pairs-smallest-sums-two-arrays/"
+    },
+    {
+        "id": 14,
+        "name": "Search An Element In A Sorted And Rotated Array",
+        "link": "https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/"
+    },
+    {
+        "id": 15,
+        "name": "Given A Sorted And Rotated Array, Find If There Is A Pair With A Given Sum",
+        "link": "https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/"
+    },
+    {
+        "id": 16,
+        "name": "Maximum Sum i*arr[i] Among All Rotations Of A Given Array",
+        "link": "https://www.geeksforgeeks.org/maximum-sum-iarri-among-rotations-given-array/"
+    },
+    {
+        "id": 17,
+        "name": "Rearrange Positive And Negative Numbers In O(n) Time And O(1) Extra Space",
+        "link": "https://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers-publish/"
+    },
+    {
+        "id": 18,
+        "name": "Three Way Partitioning Of An Array Around A Given Range",
+        "link": "https://www.geeksforgeeks.org/three-way-partitioning-of-an-array-around-a-given-range/"
+    },
+    {
+        "id": 19,
+        "name": "Maximum Length Bitonic Subarray",
+        "link": "https://www.geeksforgeeks.org/maximum-length-bitonic-subarray/"
+    },
+    {
+        "id": 20,
+        "name": "Largest Subarray With Equal Number Of 0S And 1S",
+        "link": "https://www.geeksforgeeks.org/largest-subarray-with-equal-number-of-0s-and-1s/"
+    },
+    {
+        "id": 21,
+        "name": "Maximum Product Subarray",
+        "link": "https://www.geeksforgeeks.org/maximum-product-subarray/"
+    },
+    {
+        "id": 22,
+        "name": "Counting Inversions In An Array",
+        "link": "https://www.geeksforgeeks.org/counting-inversions/"
+    },
+    {
+        "id": 23,
+        "name": "Segregate 0s and 1s In An Array",
+        "link": "https://www.geeksforgeeks.org/segregate-0s-and-1s-in-an-array-by-traversing-array-once/"
+    },
+    {
+        "id": 24,
+        "name": "Sort An Array Of 0S, 1S And 2S",
+        "link": "https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/"
+    },
+    {
+        "id": 25,
+        "name": "Merging Intervals",
+        "link": "https://www.geeksforgeeks.org/merging-intervals/"
+    },
+    {
+        "id": 26,
+        "name": "Maximum Profit By Buying And Selling A Share At Most Twice",
+        "link": "https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/"
+    },
+    {
+        "id": 27,
+        "name": "Maximum Profit By Buying And Selling A Share At Most K Times",
+        "link": "https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-k-times/"
+    },
+    {
+        "id": 28,
+        "name": "Maximum Difference Between Two Elements",
+        "link": "https://www.geeksforgeeks.org/maximum-difference-between-two-elements/"
+    },
+    {
+        "id": 29,
+        "name": "Minimize The Maximum Difference Between The Heights",
+        "link": "https://www.geeksforgeeks.org/minimize-the-maximum-difference-between-the-heights/"
+    },
+    {
+        "id": 30,
+        "name": "Move All Zeroes To End Of Array",
+        "link": "https://www.geeksforgeeks.org/move-zeroes-end-array/"
+    },
+    {
+        "id": 31,
+        "name": "Minimum Swaps Required To Bring  All Elements Less Than Or Equal To k Together",
+        "link": "https://www.geeksforgeeks.org/minimum-swaps-required-bring-elements-less-equal-k-together/"
+    },
+    {
+        "id": 32,
+        "name": "Largest Sum Subarray With At-Least k Numbers",
+        "link": "https://www.geeksforgeeks.org/largest-sum-subarray-least-k-numbers/"
+    },
+    {
+        "id": 33,
+        "name": "Form Minimum Number From Given Sequence",
+        "link": "https://www.geeksforgeeks.org/form-minimum-number-from-given-sequence/"
+    },
+    {
+        "id": 34,
+        "name": "Find The Smallest Positive Integer Value That Cannot Be Represented As Sum Of Any Subset Of A Given Array",
+        "link": "https://www.geeksforgeeks.org/find-smallest-value-represented-sum-subset-given-array/"
+    },
+    {
+        "id": 35,
+        "name": "Generate All Possible Sorted Arrays From Alternate Elements Of Two Given Sorted Arrays",
+        "link": "https://www.geeksforgeeks.org/generate-all-possible-sorted-arrays-from-alternate-elements-of-two-given-arrays/"
+    },
+    {
+        "id": 36,
+        "name": "Next Permutation",
+        "link": "https://leetcode.com/problems/next-permutation/description/"
+    },
+    {
+        "id": 37,
+        "name": "Given An Array Arr[], Find The Maximum J- I Such That Arr[j] > Arr[i]",
+        "link": "https://www.geeksforgeeks.org/given-an-array-arr-find-the-maximum-j-i-such-that-arrj-arri/"
+    },
+    {
+        "id": 38,
+        "name": "Maximum Sum of 3 Non-Overlapping Subarrays",
+        "link": "https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/"
+    },
+    {
+        "id": 39,
+        "name": "Number Of Subarrays With Maximum Values In Given Range",
+        "link": "https://www.geeksforgeeks.org/number-subarrays-maximum-value-given-range/"
+    },
+    {
+        "id": 40,
+        "name": "Print All Possible Combinations Of R Elements In A Given Array Of Size N",
+        "link": "https://www.geeksforgeeks.org/print-all-possible-combinations-of-r-elements-in-a-given-array-of-size-n/"
+    },
+    {
+        "id": 41,
+        "name": "Longest Subarray Sum Divisible K",
+        "link": "https://www.geeksforgeeks.org/longest-subarray-sum-divisible-k/"
+    },
+    {
+        "id": 42,
+        "name": "Find Minimum Number Of Merge Operations To Make An Array Palindrome",
+        "link": "https://www.geeksforgeeks.org/find-minimum-number-of-merge-operations-to-make-an-array-palindrome/"
+    },
+    {
+        "id": 43,
+        "name": "Reorder An Array According To Given Indexes",
+        "link": "https://www.geeksforgeeks.org/reorder-a-array-according-to-given-indexes/"
+    },
+    {
+        "id": 44,
+        "name": "Maximum Score",
+        "link": "https://www.codechef.com/JAN18/problems/MAXSC/"
+    },
+    {
+        "id": 45,
+        "name": "Rearrange An Array In Maximum Minimum Form | Set 2 (O(1) Extra Space)",
+        "link": "https://www.geeksforgeeks.org/rearrange-array-maximum-minimum-form-set-2-o1-extra-space/"
+    },
+    {
+        "id": 46,
+        "name": "Arrange Given Numbers To Form The Biggest Number",
+        "link": "https://www.geeksforgeeks.org/given-an-array-of-numbers-arrange-the-numbers-to-form-the-biggest-number/"
+    },
+    {
+        "id": 47,
+        "name": "Space Optimization Using Bit Manipulations",
+        "link": "https://www.geeksforgeeks.org/space-optimization-using-bit-manipulations/"
+    },
+    {
+        "id": 48,
+        "name": "MO\u2019s Algorithm (Query Square Root Decomposition)",
+        "link": "https://www.geeksforgeeks.org/mos-algorithm-query-square-root-decomposition-set-1-introduction/"
+    },
+    {
+        "id": 49,
+        "name": "Amazon Interview Question for Software Engineer / Developers",
+        "link": "https://careercup.com/question?id=5339357867147264"
+    },
+    {
+        "id": 50,
+        "name": "Majority Element",
+        "link": "https://www.geeksforgeeks.org/majority-element/"
+    },
+    {
+        "id": 51,
+        "name": "Searching Array Adjacent Differ K",
+        "link": "https://www.geeksforgeeks.org/searching-array-adjacent-differ-k/"
+    },
+    {
+        "id": 52,
+        "name": "Find A Repeating And A Missing Number",
+        "link": "https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/"
+    },
+    {
+        "id": 53,
+        "name": "Ceiling In A Sorted Array",
+        "link": "https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/"
+    },
+    {
+        "id": 54,
+        "name": "Find A Pair With The Given Difference",
+        "link": "https://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/"
+    },
+    {
+        "id": 55,
+        "name": "Find Four Elements That Sum To A Given Value Set 2",
+        "link": "https://www.geeksforgeeks.org/find-four-elements-that-sum-to-a-given-value-set-2/"
+    },
+    {
+        "id": 56,
+        "name": "Median Of Two Sorted Arrays Of Different Sizes",
+        "link": "https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/"
+    },
+    {
+        "id": 57,
+        "name": "Maximum Sum Such That No Two Elements Are Adjacent",
+        "link": "https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/"
+    },
+    {
+        "id": 58,
+        "name": "Find Common Elements Three Sorted Arrays",
+        "link": "https://www.geeksforgeeks.org/find-common-elements-three-sorted-arrays/"
+    },
+    {
+        "id": 59,
+        "name": "Count Triplets With Sum Smaller That A Given Value",
+        "link": "https://www.geeksforgeeks.org/count-triplets-with-sum-smaller-that-a-given-value/"
+    },
+    {
+        "id": 60,
+        "name": "Merge Two Sorted Arrays O1 Extra Space",
+        "link": "https://www.geeksforgeeks.org/merge-two-sorted-arrays-o1-extra-space/"
+    },
+    {
+        "id": 61,
+        "name": "3 Way Quicksort Dutch National Flag",
+        "link": "https://www.geeksforgeeks.org/3-way-quicksort-dutch-national-flag/"
+    },
+    {
+        "id": 62,
+        "name": "Counting Sort",
+        "link": "https://www.geeksforgeeks.org/counting-sort/"
+    },
+    {
+        "id": 63,
+        "name": "Radix Sort",
+        "link": "https://www.geeksforgeeks.org/radix-sort/"
+    },
+    {
+        "id": 64,
+        "name": "How To Efficiently Sort A Big List Dates In 20S",
+        "link": "https://www.geeksforgeeks.org/how-to-efficiently-sort-a-big-list-dates-in-20s/"
+    },
+    {
+        "id": 65,
+        "name": "Median Of Stream Of Integers Running Integers",
+        "link": "https://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/"
+    },
+    {
+        "id": 66,
+        "name": "Make Array Elements Equal Minimum Cost",
+        "link": "https://www.geeksforgeeks.org/make-array-elements-equal-minimum-cost/"
+    },
+    {
+        "id": 67,
+        "name": "Check Reversing Sub Array Make Array Sorted",
+        "link": "https://www.geeksforgeeks.org/check-reversing-sub-array-make-array-sorted/"
+    },
+    {
+        "id": 68,
+        "name": "Print All Subarrays With 0 Sum",
+        "link": "https://www.geeksforgeeks.org/print-all-subarrays-with-0-sum/"
+    },
+    {
+        "id": 69,
+        "name": "Nearly Sorted Algorithm",
+        "link": "https://www.geeksforgeeks.org/nearly-sorted-algorithm/"
+    },
+    {
+        "id": 70,
+        "name": "A Product Array Puzzle",
+        "link": "https://www.geeksforgeeks.org/a-product-array-puzzle/"
+    },
+    {
+        "id": 71,
+        "name": "Find Number Pairs Xy Yx",
+        "link": "https://www.geeksforgeeks.org/find-number-pairs-xy-yx/"
+    },
+    {
+        "id": 72,
+        "name": "Find Duplicates In On Time And Constant Extra Space",
+        "link": "https://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space/"
+    },
+    {
+        "id": 73,
+        "name": "Insert In Sorted And Non Overlapping Interval Array",
+        "link": "https://www.geeksforgeeks.org/insert-in-sorted-and-non-overlapping-interval-array/"
+    },
+    {
+        "id": 74,
+        "name": "Sort Array According Count Set Bits",
+        "link": "https://www.geeksforgeeks.org/sort-array-according-count-set-bits/"
+    },
+    {
+        "id": 75,
+        "name": "Minimum Swaps To Make Two Array Identical",
+        "link": "https://www.geeksforgeeks.org/minimum-swaps-to-make-two-array-identical/"
+    },
+    {
+        "id": 76,
+        "name": "Find Largest Multiple 3 Array Digits Set 2 Time O1 Space",
+        "link": "https://www.geeksforgeeks.org/find-largest-multiple-3-array-digits-set-2-time-o1-space/"
+    },
+    {
+        "id": 77,
+        "name": "Permute Two Arrays Sum Every Pair Greater Equal K",
+        "link": "https://www.geeksforgeeks.org/permute-two-arrays-sum-every-pair-greater-equal-k/"
+    },
+    {
+        "id": 78,
+        "name": "Find Pair With Greatest Product In Array",
+        "link": "https://www.geeksforgeeks.org/find-pair-with-greatest-product-in-array/"
+    },
+    {
+        "id": 79,
+        "name": "Minimum Number Swaps Required Sort Array",
+        "link": "https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/"
+    },
+    {
+        "id": 80,
+        "name": "Print Words Together Set Characters",
+        "link": "https://www.geeksforgeeks.org/print-words-together-set-characters/"
+    },
+    {
+        "id": 81,
+        "name": "Generate All Binary Strings From Given Pattern",
+        "link": "https://www.geeksforgeeks.org/generate-all-binary-strings-from-given-pattern/"
+    },
+    {
+        "id": 82,
+        "name": "Smallest Window Contains Characters String",
+        "link": "https://www.geeksforgeeks.org/smallest-window-contains-characters-string/"
+    },
+    {
+        "id": 83,
+        "name": "Count Ways Increase Lcs Length Two Strings One",
+        "link": "https://www.geeksforgeeks.org/count-ways-increase-lcs-length-two-strings-one/"
+    },
+    {
+        "id": 84,
+        "name": "Given A Sequence Of Words Print All Anagrams Together",
+        "link": "https://www.geeksforgeeks.org/given-a-sequence-of-words-print-all-anagrams-together/"
+    },
+    {
+        "id": 85,
+        "name": "Anagram Substring Search Search Permutations",
+        "link": "https://www.geeksforgeeks.org/anagram-substring-search-search-permutations/"
+    },
+    {
+        "id": 86,
+        "name": "Check Two Strings K Anagrams Not",
+        "link": "https://www.geeksforgeeks.org/check-two-strings-k-anagrams-not/"
+    },
+    {
+        "id": 87,
+        "name": "Check Binary Representations Two Numbers Anagram",
+        "link": "https://www.geeksforgeeks.org/check-binary-representations-two-numbers-anagram/"
+    },
+    {
+        "id": 88,
+        "name": "Longest Palindromic Substring Set 2",
+        "link": "https://www.geeksforgeeks.org/longest-palindromic-substring-set-2/"
+    },
+    {
+        "id": 89,
+        "name": "Find The Smallest Window In A String Containing All Characters Of Another String",
+        "link": "https://www.geeksforgeeks.org/find-the-smallest-window-in-a-string-containing-all-characters-of-another-string/"
+    },
+    {
+        "id": 90,
+        "name": "Permutation and Palindrome",
+        "link": "https://www.codechef.com/FEB18/problems/PERMPAL"
+    },
+    {
+        "id": 91,
+        "name": "Make Largest Palindrome Changing K Digits",
+        "link": "https://www.geeksforgeeks.org/make-largest-palindrome-changing-k-digits/"
+    },
+    {
+        "id": 92,
+        "name": "Lexicographically First Palindromic String",
+        "link": "https://www.geeksforgeeks.org/lexicographically-first-palindromic-string/"
+    },
+    {
+        "id": 93,
+        "name": "Longest Non Palindromic Substring",
+        "link": "https://www.geeksforgeeks.org/longest-non-palindromic-substring/"
+    },
+    {
+        "id": 94,
+        "name": "String Merging",
+        "link": "https://www.codechef.com/JAN18/problems/STRMRG"
+    },
+    {
+        "id": 95,
+        "name": "Find Kth Character Of Decrypted String",
+        "link": "https://www.geeksforgeeks.org/find-kth-character-of-decrypted-string/"
+    },
+    {
+        "id": 96,
+        "name": "Count Words Whose Th Letter Either 1 Th Th I1 Th Letter Given Word",
+        "link": "https://www.geeksforgeeks.org/count-words-whose-th-letter-either-1-th-th-i1-th-letter-given-word/"
+    },
+    {
+        "id": 97,
+        "name": "Find Number Distinct Palindromic Sub Strings Given String",
+        "link": "https://www.geeksforgeeks.org/find-number-distinct-palindromic-sub-strings-given-string/"
+    },
+    {
+        "id": 98,
+        "name": "Print All Distinct Characters Of A String In Order 3 Methods",
+        "link": "https://www.geeksforgeeks.org/print-all-distinct-characters-of-a-string-in-order-3-methods/"
+    },
+    {
+        "id": 99,
+        "name": "Count Total Anagram Substrings",
+        "link": "https://www.geeksforgeeks.org/count-total-anagram-substrings/"
+    },
+    {
+        "id": 100,
+        "name": "Min Flips Of Continuous Characters To Make All Characters Same In A String",
+        "link": "https://www.geeksforgeeks.org/min-flips-of-continuous-characters-to-make-all-characters-same-in-a-string/"
+    },
+    {
+        "id": 101,
+        "name": "Count Binary Strings K Times Appearing Adjacent Two Set Bits",
+        "link": "https://www.geeksforgeeks.org/count-binary-strings-k-times-appearing-adjacent-two-set-bits/"
+    },
+    {
+        "id": 102,
+        "name": "Binary Representation Next Greater Number Number 1S 0S",
+        "link": "https://www.geeksforgeeks.org/binary-representation-next-greater-number-number-1s-0s/"
+    },
+    {
+        "id": 103,
+        "name": "Print Longest Common Sub Sequences Lexicographical Order",
+        "link": "https://www.geeksforgeeks.org/print-longest-common-sub-sequences-lexicographical-order/"
+    },
+    {
+        "id": 104,
+        "name": "Print Shortest Common Supersequence",
+        "link": "https://www.geeksforgeeks.org/print-shortest-common-supersequence/"
+    },
+    {
+        "id": 105,
+        "name": "Given Two Strings Find First String Subsequence Second",
+        "link": "https://www.geeksforgeeks.org/given-two-strings-find-first-string-subsequence-second/"
+    },
+    {
+        "id": 106,
+        "name": "Find Largest Word Dictionary Deleting Characters Given String",
+        "link": "https://www.geeksforgeeks.org/find-largest-word-dictionary-deleting-characters-given-string/"
+    },
+    {
+        "id": 107,
+        "name": "Search A Word In A 2D Grid Of Characters",
+        "link": "https://www.geeksforgeeks.org/search-a-word-in-a-2d-grid-of-characters/"
+    },
+    {
+        "id": 108,
+        "name": "Number Subsequences Form Ai Bj Ck",
+        "link": "https://www.geeksforgeeks.org/number-subsequences-form-ai-bj-ck/"
+    },
+    {
+        "id": 109,
+        "name": "Find Number Times String Occurs Given String",
+        "link": "https://www.geeksforgeeks.org/find-number-times-string-occurs-given-string/"
+    },
+    {
+        "id": 110,
+        "name": "Count Distinct Subsequences",
+        "link": "https://www.geeksforgeeks.org/count-distinct-subsequences/"
+    },
+    {
+        "id": 111,
+        "name": "Find Patterns 101 Given String",
+        "link": "https://www.geeksforgeeks.org/find-patterns-101-given-string/"
+    },
+    {
+        "id": 112,
+        "name": "Given A String Find Its First Non Repeating Character",
+        "link": "https://www.geeksforgeeks.org/given-a-string-find-its-first-non-repeating-character/"
+    },
+    {
+        "id": 113,
+        "name": "Rearrange A String So That All Same Characters Become At Least D Distance Away",
+        "link": "https://www.geeksforgeeks.org/rearrange-a-string-so-that-all-same-characters-become-at-least-d-distance-away/"
+    },
+    {
+        "id": 114,
+        "name": "Recursively Remove Adjacent Duplicates Given String",
+        "link": "https://www.geeksforgeeks.org/recursively-remove-adjacent-duplicates-given-string/"
+    },
+    {
+        "id": 115,
+        "name": "Wildcard Character Matching",
+        "link": "https://www.geeksforgeeks.org/wildcard-character-matching/"
+    },
+    {
+        "id": 116,
+        "name": "Lexicographic Rank Of A String",
+        "link": "https://www.geeksforgeeks.org/lexicographic-rank-of-a-string/"
+    },
+    {
+        "id": 117,
+        "name": "Print Number Ascending Order Contains 1 2 3 Digits",
+        "link": "https://www.geeksforgeeks.org/print-number-ascending-order-contains-1-2-3-digits/"
+    },
+    {
+        "id": 118,
+        "name": "Given Sorted Dictionary Find Precedence Characters",
+        "link": "https://www.geeksforgeeks.org/given-sorted-dictionary-find-precedence-characters/"
+    },
+    {
+        "id": 119,
+        "name": "Find Excel Column Name Given Number",
+        "link": "https://www.geeksforgeeks.org/find-excel-column-name-given-number/"
+    },
+    {
+        "id": 120,
+        "name": "Find The Longest Substring With K Unique Characters In A Given String",
+        "link": "https://www.geeksforgeeks.org/find-the-longest-substring-with-k-unique-characters-in-a-given-string/"
+    },
+    {
+        "id": 121,
+        "name": "Function To Find Number Of Customers Who Could Not Get A Computer",
+        "link": "https://www.geeksforgeeks.org/function-to-find-number-of-customers-who-could-not-get-a-computer/"
+    },
+    {
+        "id": 122,
+        "name": "Check Given Sentence Given Set Simple Grammer Rules",
+        "link": "https://www.geeksforgeeks.org/check-given-sentence-given-set-simple-grammer-rules/"
+    },
+    {
+        "id": 123,
+        "name": "Length Of The Longest Valid Substring",
+        "link": "https://www.geeksforgeeks.org/length-of-the-longest-valid-substring/"
+    },
+    {
+        "id": 124,
+        "name": "Print Ways Break String Bracket Form",
+        "link": "https://www.geeksforgeeks.org/print-ways-break-string-bracket-form/"
+    },
+    {
+        "id": 125,
+        "name": "Print Concatenation Of Zig Zag String Form In N Rows",
+        "link": "https://www.geeksforgeeks.org/print-concatenation-of-zig-zag-string-form-in-n-rows/"
+    },
+    {
+        "id": 126,
+        "name": "Searching For Patterns Set 2 Kmp Algorithm",
+        "link": "https://www.geeksforgeeks.org/searching-for-patterns-set-2-kmp-algorithm/"
+    },
+    {
+        "id": 127,
+        "name": "Transform One String To Another Using Minimum Number Of Given Operation",
+        "link": "https://www.geeksforgeeks.org/transform-one-string-to-another-using-minimum-number-of-given-operation/"
+    },
+    {
+        "id": 128,
+        "name": "Repeated Subsequence Length 2",
+        "link": "https://www.geeksforgeeks.org/repeated-subsequence-length-2/"
+    },
+    {
+        "id": 129,
+        "name": "Check If Two Given Strings Are Isomorphic To Each Other",
+        "link": "https://www.geeksforgeeks.org/check-if-two-given-strings-are-isomorphic-to-each-other/"
+    },
+    {
+        "id": 130,
+        "name": "Find Given String Can Represented Substring Iterating Substring N Times",
+        "link": "https://www.geeksforgeeks.org/find-given-string-can-represented-substring-iterating-substring-n-times/"
+    },
+    {
+        "id": 131,
+        "name": "Recursively Print All Sentences That Can Be Formed From List Of Word Lists",
+        "link": "https://www.geeksforgeeks.org/recursively-print-all-sentences-that-can-be-formed-from-list-of-word-lists/"
+    },
+    {
+        "id": 132,
+        "name": "Searching For Patterns Set 3 Rabin Karp Algorithm",
+        "link": "https://www.geeksforgeeks.org/searching-for-patterns-set-3-rabin-karp-algorithm/"
+    },
+    {
+        "id": 133,
+        "name": "Number of subsequences in a string divisible by n",
+        "link": "https://www.geeksforgeeks.org/number-subsequences-string-divisible-n/"
+    },
+    {
+        "id": 134,
+        "name": "Zigzag Or Diagonal Traversal Of Matrix",
+        "link": "https://www.geeksforgeeks.org/zigzag-or-diagonal-traversal-of-matrix/"
+    },
+    {
+        "id": 135,
+        "name": "Create A Matrix With Alternating Rectangles Of 0 And X",
+        "link": "https://www.geeksforgeeks.org/create-a-matrix-with-alternating-rectangles-of-0-and-x/"
+    },
+    {
+        "id": 136,
+        "name": "Print Elements Sorted Order Row Column Wise Sorted Matrix",
+        "link": "https://www.geeksforgeeks.org/print-elements-sorted-order-row-column-wise-sorted-matrix/"
+    },
+    {
+        "id": 137,
+        "name": "Inplace Rotate Square Matrix By 90 Degrees",
+        "link": "https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/"
+    },
+    {
+        "id": 138,
+        "name": "Find Number Of Islands",
+        "link": "https://www.geeksforgeeks.org/find-number-of-islands/"
+    },
+    {
+        "id": 139,
+        "name": "Given Matrix O X Replace O X Surrounded X",
+        "link": "https://www.geeksforgeeks.org/given-matrix-o-x-replace-o-x-surrounded-x/"
+    },
+    {
+        "id": 140,
+        "name": "Validity Of A Given Tic Tac Toe Board Configuration/+",
+        "link": "https://www.geeksforgeeks.org/validity-of-a-given-tic-tac-toe-board-configuration/+"
+    },
+    {
+        "id": 141,
+        "name": "Given Matrix O X Find Largest Subsquare Surrounded X",
+        "link": "https://www.geeksforgeeks.org/given-matrix-o-x-find-largest-subsquare-surrounded-x/"
+    },
+    {
+        "id": 142,
+        "name": "Rotate Matrix Elements",
+        "link": "https://www.geeksforgeeks.org/rotate-matrix-elements/"
+    },
+    {
+        "id": 143,
+        "name": "Find Common Element Rows Row Wise Sorted Matrix",
+        "link": "https://www.geeksforgeeks.org/find-common-element-rows-row-wise-sorted-matrix/"
+    },
+    {
+        "id": 144,
+        "name": "Maximum Size Rectangle Binary Sub Matrix 1S",
+        "link": "https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/"
+    },
+    {
+        "id": 145,
+        "name": "Common Elements In All Rows Of A Given Matrix",
+        "link": "https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/"
+    },
+    {
+        "id": 146,
+        "name": "Find A Specific Pair In Matrix",
+        "link": "https://www.geeksforgeeks.org/find-a-specific-pair-in-matrix/"
+    },
+    {
+        "id": 147,
+        "name": "Find Orientation Of A Pattern In A Matrix",
+        "link": "https://www.geeksforgeeks.org/find-orientation-of-a-pattern-in-a-matrix/"
+    },
+    {
+        "id": 148,
+        "name": "Shortest Path In A Binary Maze",
+        "link": "https://www.geeksforgeeks.org/shortest-path-in-a-binary-maze/"
+    },
+    {
+        "id": 149,
+        "name": "Inplace Rotate Square Matrix By 90 Degrees",
+        "link": "https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/"
+    },
+    {
+        "id": 150,
+        "name": "Kth Smallest Element In A Row Wise And Column Wise Sorted 2D Array Set 1",
+        "link": "https://www.geeksforgeeks.org/kth-smallest-element-in-a-row-wise-and-column-wise-sorted-2d-array-set-1/"
+    },
+    {
+        "id": 151,
+        "name": "A Boolean Matrix Question",
+        "link": "https://www.geeksforgeeks.org/a-boolean-matrix-question/"
+    },
+    {
+        "id": 152,
+        "name": "Search A Word In A 2D Grid Of Characters",
+        "link": "https://www.geeksforgeeks.org/search-a-word-in-a-2d-grid-of-characters/"
+    },
+    {
+        "id": 153,
+        "name": "Backtracking Set 1 The Knights Tour Problem",
+        "link": "https://www.geeksforgeeks.org/backtracking-set-1-the-knights-tour-problem/"
+    },
+    {
+        "id": 154,
+        "name": "Backttracking Set 2 Rat In A Maze",
+        "link": "https://www.geeksforgeeks.org/backttracking-set-2-rat-in-a-maze/"
+    },
+    {
+        "id": 155,
+        "name": "Backtracking Set 7 Suduku",
+        "link": "https://www.geeksforgeeks.org/backtracking-set-7-suduku/"
+    },
+    {
+        "id": 156,
+        "name": "Remove Invalid Parentheses",
+        "link": "https://www.geeksforgeeks.org/remove-invalid-parentheses/"
+    },
+    {
+        "id": 157,
+        "name": "Word Break Problem Using Backtracking",
+        "link": "https://www.geeksforgeeks.org/word-break-problem-using-backtracking/"
+    },
+    {
+        "id": 158,
+        "name": "Print Palindromic Partitions String",
+        "link": "https://www.geeksforgeeks.org/print-palindromic-partitions-string/"
+    },
+    {
+        "id": 159,
+        "name": "Find Shortest Safe Route In A Path With Landmines",
+        "link": "https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/"
+    },
+    {
+        "id": 160,
+        "name": "Combinational Sum",
+        "link": "https://www.geeksforgeeks.org/combinational-sum/"
+    },
+    {
+        "id": 161,
+        "name": "Partition Set K Subsets Equal Sum",
+        "link": "https://www.geeksforgeeks.org/partition-set-k-subsets-equal-sum/"
+    },
+    {
+        "id": 162,
+        "name": "Longest Possible Route In A Matrix With Hurdles",
+        "link": "https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/"
+    },
+    {
+        "id": 163,
+        "name": "Backtracking Set 8 Solving Cryptarithmetic Puzzles",
+        "link": "https://www.geeksforgeeks.org/backtracking-set-8-solving-cryptarithmetic-puzzles/"
+    },
+    {
+        "id": 164,
+        "name": "Match A Pattern And String Without Using Regular Expressions",
+        "link": "https://www.geeksforgeeks.org/match-a-pattern-and-string-without-using-regular-expressions/"
+    },
+    {
+        "id": 165,
+        "name": "Find If There Is A Path Of More Than K Length From A Source",
+        "link": "https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/"
+    },
+    {
+        "id": 166,
+        "name": "Backtracking Set 7 Hamiltonian Cycle",
+        "link": "https://www.geeksforgeeks.org/backtracking-set-7-hamiltonian-cycle/"
+    },
+    {
+        "id": 167,
+        "name": "Tug Of War",
+        "link": "https://www.geeksforgeeks.org/tug-of-war/"
+    },
+    {
+        "id": 168,
+        "name": "Find Maximum Number Possible By Doing At Most K Swaps",
+        "link": "https://www.geeksforgeeks.org/find-maximum-number-possible-by-doing-at-most-k-swaps/"
+    },
+    {
+        "id": 169,
+        "name": "Find Paths From Corner Cell To Middle Cell In Maze",
+        "link": "https://www.geeksforgeeks.org/find-paths-from-corner-cell-to-middle-cell-in-maze/"
+    },
+    {
+        "id": 170,
+        "name": "Arithmetic Expressions",
+        "link": "https://www.hackerrank.com/challenges/arithmetic-expressions/problem"
+    },
+    {
+        "id": 171,
+        "name": "Crossword Puzzle",
+        "link": "https://www.hackerrank.com/challenges/crossword-puzzle/problem"
+    },
+    {
+        "id": 172,
+        "name": "Greedy Algorithms Set 1 Activity Selection Problem",
+        "link": "https://www.geeksforgeeks.org/greedy-algorithms-set-1-activity-selection-problem/"
+    },
+    {
+        "id": 173,
+        "name": "Job Sequencing Problem Set 1 Greedy Algorithm",
+        "link": "https://www.geeksforgeeks.org/job-sequencing-problem-set-1-greedy-algorithm/"
+    },
+    {
+        "id": 174,
+        "name": "Greedy Algorithm Egyptian Fraction",
+        "link": "https://www.geeksforgeeks.org/greedy-algorithm-egyptian-fraction/"
+    },
+    {
+        "id": 175,
+        "name": "Fractional Knapsack Problem",
+        "link": "https://www.geeksforgeeks.org/fractional-knapsack-problem/"
+    },
+    {
+        "id": 176,
+        "name": "Greedy Algorithm To Find Minimum Number Of Coins",
+        "link": "https://www.geeksforgeeks.org/greedy-algorithm-to-find-minimum-number-of-coins/"
+    },
+    {
+        "id": 177,
+        "name": "Dynamic Programming Set 20 Maximum Length Chain Of Pairs",
+        "link": "https://www.geeksforgeeks.org/dynamic-programming-set-20-maximum-length-chain-of-pairs/"
+    },
+    {
+        "id": 178,
+        "name": "Find Minimum Time To Finish All Jobs With Given Constraints",
+        "link": "https://www.geeksforgeeks.org/find-minimum-time-to-finish-all-jobs-with-given-constraints/"
+    },
+    {
+        "id": 179,
+        "name": "Job Sequencing Using Disjoint Set Union",
+        "link": "https://www.geeksforgeeks.org/job-sequencing-using-disjoint-set-union/"
+    },
+    {
+        "id": 180,
+        "name": "Minimum Sum Two Numbers Formed Digits Array 2",
+        "link": "https://www.geeksforgeeks.org/minimum-sum-two-numbers-formed-digits-array-2/"
+    },
+    {
+        "id": 181,
+        "name": "Find Smallest Number With Given Number Of Digits And Digit Sum",
+        "link": "https://www.geeksforgeeks.org/find-smallest-number-with-given-number-of-digits-and-digit-sum/"
+    },
+    {
+        "id": 182,
+        "name": "Minimum Sum Absolute Difference Pairs Two Arrays",
+        "link": "https://www.geeksforgeeks.org/minimum-sum-absolute-difference-pairs-two-arrays/"
+    },
+    {
+        "id": 183,
+        "name": "Maximize Sum Consecutive Differences Circular Array",
+        "link": "https://www.geeksforgeeks.org/maximize-sum-consecutive-differences-circular-array/"
+    },
+    {
+        "id": 184,
+        "name": "Paper Cut Minimum Number Squares",
+        "link": "https://www.geeksforgeeks.org/paper-cut-minimum-number-squares/"
+    },
+    {
+        "id": 185,
+        "name": "Lexicographically Smallest Array K Consecutive Swaps",
+        "link": "https://www.geeksforgeeks.org/lexicographically-smallest-array-k-consecutive-swaps/"
+    },
+    {
+        "id": 186,
+        "name": "Rearrange Characters String No Two Adjacent",
+        "link": "https://www.geeksforgeeks.org/rearrange-characters-string-no-two-adjacent/"
+    },
+    {
+        "id": 187,
+        "name": "Find Maximum Height Pyramid From The Given Array Of Objects",
+        "link": "https://www.geeksforgeeks.org/find-maximum-height-pyramid-from-the-given-array-of-objects/"
+    },
+    {
+        "id": 188,
+        "name": "Minimum Cost For Acquiring All Coins With K Extra Coins Allowed With Every Coin",
+        "link": "https://www.geeksforgeeks.org/minimum-cost-for-acquiring-all-coins-with-k-extra-coins-allowed-with-every-coin/"
+    },
+    {
+        "id": 189,
+        "name": "Find Maximum Sum Possible Equal Sum Three Stacks",
+        "link": "https://www.geeksforgeeks.org/find-maximum-sum-possible-equal-sum-three-stacks/"
+    },
+    {
+        "id": 190,
+        "name": "Maximize Array Sun After K Negation Operations",
+        "link": "https://www.geeksforgeeks.org/maximize-array-sun-after-k-negation-operations/"
+    },
+    {
+        "id": 191,
+        "name": "Minimum Cost Cut Board Squares",
+        "link": "https://www.geeksforgeeks.org/minimum-cost-cut-board-squares/"
+    },
+    {
+        "id": 192,
+        "name": "Minimize Cash Flow Among Given Set Friends Borrowed Money",
+        "link": ""
+    },
+    {
+        "id": 193,
+        "name": "Minimum Edges Reverse Make Path Source Destination",
+        "link": ""
+    },
+    {
+        "id": 194,
+        "name": "Ugly Numbers",
+        "link": "https://www.geeksforgeeks.org/ugly-numbers/"
+    },
+    {
+        "id": 195,
+        "name": "Super Ugly Number Number Whose Prime Factors Given Set",
+        "link": "https://www.geeksforgeeks.org/super-ugly-number-number-whose-prime-factors-given-set/"
+    },
+    {
+        "id": 196,
+        "name": "Maximum Size Sub Matrix With All 1S In A Binary Matrix",
+        "link": "https://www.geeksforgeeks.org/maximum-size-sub-matrix-with-all-1s-in-a-binary-matrix/"
+    },
+    {
+        "id": 197,
+        "name": "Dynamic Programming Subset Sum Problem",
+        "link": "https://www.geeksforgeeks.org/dynamic-programming-subset-sum-problem/"
+    },
+    {
+        "id": 198,
+        "name": "Minimum Number Of Jumps To Reach End Of A Given Array",
+        "link": "https://www.geeksforgeeks.org/minimum-number-of-jumps-to-reach-end-of-a-given-array/"
+    },
+    {
+        "id": 199,
+        "name": "Dynamic Programming Set 15 Longest Bitonic Subsequence",
+        "link": "https://www.geeksforgeeks.org/dynamic-programming-set-15-longest-bitonic-subsequence/"
+    },
+    {
+        "id": 200,
+        "name": "Maximum Sum Bi Tonic Sub Sequence",
+        "link": "https://www.geeksforgeeks.org/maximum-sum-bi-tonic-sub-sequence/"
+    },
+    {
+        "id": 201,
+        "name": "Lcs Longest Common Subsequence Three Strings",
+        "link": "https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/"
+    },
+    {
+        "id": 202,
+        "name": "Friends Pairing Problem",
+        "link": "https://www.geeksforgeeks.org/friends-pairing-problem/"
+    },
+    {
+        "id": 203,
+        "name": "Dynamic Programming Building Bridges",
+        "link": "https://www.geeksforgeeks.org/dynamic-programming-building-bridges/"
+    },
+    {
+        "id": 204,
+        "name": "Dynamic Programming Set 18 Partition Problem",
+        "link": "https://www.geeksforgeeks.org/dynamic-programming-set-18-partition-problem/"
+    },
+    {
+        "id": 205,
+        "name": "Count Number Of Ways To Partition A Set Into K Subsets",
+        "link": "https://www.geeksforgeeks.org/count-number-of-ways-to-partition-a-set-into-k-subsets/"
+    },
+    {
+        "id": 206,
+        "name": "Dynamic Programming Set 12 Longest Palindromic Subsequence",
+        "link": "https://www.geeksforgeeks.org/dynamic-programming-set-12-longest-palindromic-subsequence/"
+    },
+    {
+        "id": 207,
+        "name": "Dynamic Programming Set 11 Egg Dropping Puzzle",
+        "link": "https://www.geeksforgeeks.org/dynamic-programming-set-11-egg-dropping-puzzle/"
+    },
+    {
+        "id": 208,
+        "name": "Dynamic Programming Set 21 Box Stacking Problem",
+        "link": "https://www.geeksforgeeks.org/dynamic-programming-set-21-box-stacking-problem/"
+    },
+    {
+        "id": 209,
+        "name": "Dynamic Programming Set 24 Optimal Binary Search Tree",
+        "link": "https://www.geeksforgeeks.org/dynamic-programming-set-24-optimal-binary-search-tree/"
+    },
+    {
+        "id": 210,
+        "name": "Dynamic Programming Set 28 Minimum Insertions To Form A Palindrome",
+        "link": "https://www.geeksforgeeks.org/dynamic-programming-set-28-minimum-insertions-to-form-a-palindrome/"
+    },
+    {
+        "id": 211,
+        "name": "Dynamic Programming Set 36 Cut A Rope To Maximize Product",
+        "link": "https://www.geeksforgeeks.org/dynamic-programming-set-36-cut-a-rope-to-maximize-product/"
+    },
+    {
+        "id": 212,
+        "name": "Dynamic Programming Set 31 Optimal Strategy For A Game",
+        "link": "https://www.geeksforgeeks.org/dynamic-programming-set-31-optimal-strategy-for-a-game/"
+    },
+    {
+        "id": 213,
+        "name": "Dynamic Programming Set 32 Word Break Problem",
+        "link": "https://www.geeksforgeeks.org/dynamic-programming-set-32-word-break-problem/"
+    },
+    {
+        "id": 214,
+        "name": "Mobile Numeric Keypad Problem",
+        "link": "https://www.geeksforgeeks.org/mobile-numeric-keypad-problem/"
+    },
+    {
+        "id": 215,
+        "name": "Find Number Of Solutions Of A Linear Equation Of N Variables",
+        "link": "https://www.geeksforgeeks.org/find-number-of-solutions-of-a-linear-equation-of-n-variables/"
+    },
+    {
+        "id": 216,
+        "name": "Count Number Ways Tile Floor Size N X M Using 1 X M Size Tiles",
+        "link": "https://www.geeksforgeeks.org/count-number-ways-tile-floor-size-n-x-m-using-1-x-m-size-tiles/"
+    },
+    {
+        "id": 217,
+        "name": "Count Number Binary Strings Without Consecutive 1S",
+        "link": "https://www.geeksforgeeks.org/count-number-binary-strings-without-consecutive-1s/"
+    },
+    {
+        "id": 218,
+        "name": "Painters Partition Problem",
+        "link": "https://www.geeksforgeeks.org/painters-partition-problem/"
+    },
+    {
+        "id": 219,
+        "name": "Check Whether A Given String Is An Interleaving Of Two Other Given Strings Set 2",
+        "link": "https://www.geeksforgeeks.org/check-whether-a-given-string-is-an-interleaving-of-two-other-given-strings-set-2/"
+    },
+    {
+        "id": 220,
+        "name": "Wildcard Pattern Matching",
+        "link": "https://www.geeksforgeeks.org/wildcard-pattern-matching/"
+    },
+    {
+        "id": 221,
+        "name": "Probability Knight Remain Chessboard",
+        "link": "https://www.geeksforgeeks.org/probability-knight-remain-chessboard/"
+    },
+    {
+        "id": 222,
+        "name": "Two Water Jug Puzzle",
+        "link": "https://www.geeksforgeeks.org/two-water-jug-puzzle/"
+    },
+    {
+        "id": 223,
+        "name": "Dynamic Programming Set 18 Word Wrap",
+        "link": "https://www.geeksforgeeks.org/dynamic-programming-set-18-word-wrap/"
+    },
+    {
+        "id": 224,
+        "name": "Largest Sum Subarray Least K Numbers",
+        "link": "https://www.geeksforgeeks.org/largest-sum-subarray-least-k-numbers/"
+    },
+    {
+        "id": 225,
+        "name": "Find Water In A Glass",
+        "link": "https://www.geeksforgeeks.org/find-water-in-a-glass/"
+    },
+    {
+        "id": 226,
+        "name": "Remove Minimum Elements Either Side 2Min Max",
+        "link": "https://www.geeksforgeeks.org/remove-minimum-elements-either-side-2min-max/"
+    },
+    {
+        "id": 227,
+        "name": "Number Subsequences Form Ai Bj Ck",
+        "link": "https://www.geeksforgeeks.org/number-subsequences-form-ai-bj-ck/"
+    },
+    {
+        "id": 228,
+        "name": "Unbounded Knapsack Repetition Items Allowed",
+        "link": "https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/"
+    },
+    {
+        "id": 229,
+        "name": "Length Of The Longest Valid Substring",
+        "link": "https://www.geeksforgeeks.org/length-of-the-longest-valid-substring/"
+    },
+    {
+        "id": 230,
+        "name": "Dynamic Programming Set 37 Boolean Parenthesization Problem",
+        "link": "https://www.geeksforgeeks.org/dynamic-programming-set-37-boolean-parenthesization-problem/"
+    },
+    {
+        "id": 231,
+        "name": "Count Possible Decodings Given Digit Sequence",
+        "link": "https://www.geeksforgeeks.org/count-possible-decodings-given-digit-sequence/"
+    },
+    {
+        "id": 232,
+        "name": "Perfect Sum Problem Print Subsets Given Sum",
+        "link": "https://www.geeksforgeeks.org/perfect-sum-problem-print-subsets-given-sum/"
+    },
+    {
+        "id": 233,
+        "name": "Vertex Cover Problem Set 2 Dynamic Programming Solution Tree",
+        "link": "https://www.geeksforgeeks.org/vertex-cover-problem-set-2-dynamic-programming-solution-tree/"
+    },
+    {
+        "id": 234,
+        "name": "Longest Even Length Substring Sum First Second Half",
+        "link": "https://www.geeksforgeeks.org/longest-even-length-substring-sum-first-second-half/"
+    },
+    {
+        "id": 235,
+        "name": "Count Possible Ways To Construct Buildings",
+        "link": "https://www.geeksforgeeks.org/count-possible-ways-to-construct-buildings/"
+    },
+    {
+        "id": 236,
+        "name": "Bitmasking And Dynamic Programming Set 1 Count Ways To Assign Unique Cap To Every Person",
+        "link": "https://www.geeksforgeeks.org/bitmasking-and-dynamic-programming-set-1-count-ways-to-assign-unique-cap-to-every-person/"
+    },
+    {
+        "id": 237,
+        "name": "Longest Repeating Subsequence",
+        "link": "https://www.geeksforgeeks.org/longest-repeating-subsequence/"
+    },
+    {
+        "id": 238,
+        "name": "Longest Common Increasing Subsequence Lcs Lis",
+        "link": "https://www.geeksforgeeks.org/longest-common-increasing-subsequence-lcs-lis/"
+    },
+    {
+        "id": 239,
+        "name": "Find If String Is K Palindrome Or Not",
+        "link": "https://www.geeksforgeeks.org/find-if-string-is-k-palindrome-or-not/"
+    },
+    {
+        "id": 240,
+        "name": "Minimum Sum Path 3 D Array",
+        "link": "https://www.geeksforgeeks.org/minimum-sum-path-3-d-array/"
+    },
+    {
+        "id": 241,
+        "name": "Count Distinct Subsequences",
+        "link": "https://www.geeksforgeeks.org/count-distinct-subsequences/"
+    },
+    {
+        "id": 242,
+        "name": "Shortest Uncommon Subsequence",
+        "link": "https://www.geeksforgeeks.org/shortest-uncommon-subsequence/"
+    },
+    {
+        "id": 243,
+        "name": "Temple Offerings",
+        "link": "https://www.geeksforgeeks.org/temple-offerings/"
+    },
+    {
+        "id": 244,
+        "name": "Highway Billboard Problem",
+        "link": "https://www.geeksforgeeks.org/highway-billboard-problem/"
+    },
+    {
+        "id": 245,
+        "name": "Maximum Sum Alternating Subsequence Sum",
+        "link": "https://www.geeksforgeeks.org/maximum-sum-alternating-subsequence-sum/"
+    },
+    {
+        "id": 246,
+        "name": "Minimum Maximum Values Expression",
+        "link": "https://www.geeksforgeeks.org/minimum-maximum-values-expression/"
+    },
+    {
+        "id": 247,
+        "name": "Minimum And Maximum Values Of An Expression With * And +",
+        "link": "https://www.geeksforgeeks.org/minimum-maximum-values-expression/"
+    },
+    {
+        "id": 248,
+        "name": "Implement Two Stacks In An Array",
+        "link": "https://www.geeksforgeeks.org/implement-two-stacks-in-an-array/"
+    },
+    {
+        "id": 249,
+        "name": "Design A Stack With Find Middle Operation",
+        "link": "https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/"
+    },
+    {
+        "id": 250,
+        "name": "Efficiently Implement K Stacks Single Array",
+        "link": "https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/"
+    },
+    {
+        "id": 251,
+        "name": "Implement Stack Using Priority Queue Or Heap",
+        "link": "https://www.geeksforgeeks.org/implement-stack-using-priority-queue-or-heap/"
+    },
+    {
+        "id": 252,
+        "name": "Stack Set 2 Infix To Postfix",
+        "link": "https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/"
+    },
+    {
+        "id": 253,
+        "name": "The Celebrity Problem",
+        "link": "https://www.geeksforgeeks.org/the-celebrity-problem/"
+    },
+    {
+        "id": 254,
+        "name": "Iterative Tower Of Hanoi",
+        "link": "https://www.geeksforgeeks.org/iterative-tower-of-hanoi/"
+    },
+    {
+        "id": 255,
+        "name": "Design And Implement Special Stack Data Structure",
+        "link": "https://www.geeksforgeeks.org/design-and-implement-special-stack-data-structure/"
+    },
+    {
+        "id": 256,
+        "name": "Find The Maximum Of Minimums For Every Window Size In A Given Array",
+        "link": "https://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/"
+    },
+    {
+        "id": 257,
+        "name": "Length Of The Longest Valid Substring",
+        "link": "https://www.geeksforgeeks.org/length-of-the-longest-valid-substring/"
+    },
+    {
+        "id": 258,
+        "name": "Find Expression Duplicate Parenthesis Not",
+        "link": "https://www.geeksforgeeks.org/find-expression-duplicate-parenthesis-not/"
+    },
+    {
+        "id": 259,
+        "name": "Lru Cache Implementation",
+        "link": "https://www.geeksforgeeks.org/lru-cache-implementation/"
+    },
+    {
+        "id": 260,
+        "name": "Efficiently Implement K Queues Single Array",
+        "link": "https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/"
+    },
+    {
+        "id": 261,
+        "name": "Find A Tour That Visits All Stations",
+        "link": "https://www.geeksforgeeks.org/find-a-tour-that-visits-all-stations/"
+    },
+    {
+        "id": 262,
+        "name": "Minimum Time Required So That All Oranges Become Rotten",
+        "link": "https://www.geeksforgeeks.org/minimum-time-required-so-that-all-oranges-become-rotten/"
+    },
+    {
+        "id": 263,
+        "name": "Sum Minimum Maximum Elements Subarrays Size K",
+        "link": "https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/"
+    },
+    {
+        "id": 264,
+        "name": "Stack Permutations Check If An Array Is Stack Permutation Of Other",
+        "link": "https://www.geeksforgeeks.org/stack-permutations-check-if-an-array-is-stack-permutation-of-other/"
+    },
+    {
+        "id": 265,
+        "name": "Count Natural Numbers Whose Permutation Greater Number",
+        "link": "https://www.geeksforgeeks.org/count-natural-numbers-whose-permutation-greater-number/"
+    },
+    {
+        "id": 266,
+        "name": "Sort A Stack Using Recursion",
+        "link": "https://www.geeksforgeeks.org/sort-a-stack-using-recursion/"
+    },
+    {
+        "id": 267,
+        "name": "Stack Set 4 Evaluation Postfix Expression",
+        "link": "https://www.geeksforgeeks.org/stack-set-4-evaluation-postfix-expression/"
+    },
+    {
+        "id": 268,
+        "name": "Queue Based Approach For First Non Repeating Character In A Stream",
+        "link": "https://www.geeksforgeeks.org/queue-based-approach-for-first-non-repeating-character-in-a-stream/"
+    },
+    {
+        "id": 269,
+        "name": "Given Only A Pointer To A Node To Be Deleted In A Singly Linked List How Do You Delete It",
+        "link": "https://www.geeksforgeeks.org/given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it/"
+    },
+    {
+        "id": 270,
+        "name": "Find First Non Repeating Character Stream Characters",
+        "link": "https://www.geeksforgeeks.org/find-first-non-repeating-character-stream-characters/"
+    },
+    {
+        "id": 271,
+        "name": "Nth Node From The End Of A Linked List",
+        "link": "https://www.geeksforgeeks.org/nth-node-from-the-end-of-a-linked-list/"
+    },
+    {
+        "id": 272,
+        "name": "Detect And Remove Loop In A Linked List",
+        "link": "https://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/"
+    },
+    {
+        "id": 273,
+        "name": "Write A Function To Get The Intersection Point Of Two Linked Lists",
+        "link": "https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/"
+    },
+    {
+        "id": 274,
+        "name": "Remove Duplicates From An Unsorted Linked List",
+        "link": "https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/"
+    },
+    {
+        "id": 275,
+        "name": "Merge Sort For Linked List",
+        "link": "https://www.geeksforgeeks.org/merge-sort-for-linked-list/"
+    },
+    {
+        "id": 276,
+        "name": "Delete Nodes Which Have A Greater Value On Right Side",
+        "link": "https://www.geeksforgeeks.org/delete-nodes-which-have-a-greater-value-on-right-side/"
+    },
+    {
+        "id": 277,
+        "name": "Segregate Even And Odd Elements In A Linked List",
+        "link": "https://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/"
+    },
+    {
+        "id": 278,
+        "name": "Sum Of Two Linked Lists",
+        "link": "https://www.geeksforgeeks.org/sum-of-two-linked-lists/"
+    },
+    {
+        "id": 279,
+        "name": "Find A Triplet From Three Linked Lists With Sum Equal To A Given Number",
+        "link": "https://www.geeksforgeeks.org/find-a-triplet-from-three-linked-lists-with-sum-equal-to-a-given-number/"
+    },
+    {
+        "id": 280,
+        "name": "Flattening A Linked List",
+        "link": "https://www.geeksforgeeks.org/flattening-a-linked-list/"
+    },
+    {
+        "id": 281,
+        "name": "Sort A Linked List Of 0S 1S Or 2S",
+        "link": "https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/"
+    },
+    {
+        "id": 282,
+        "name": "Flatten A Linked List With Next And Child Pointers",
+        "link": "https://www.geeksforgeeks.org/flatten-a-linked-list-with-next-and-child-pointers/"
+    },
+    {
+        "id": 283,
+        "name": "Quicksort On Singly Linked List",
+        "link": "https://www.geeksforgeeks.org/quicksort-on-singly-linked-list/"
+    },
+    {
+        "id": 284,
+        "name": "A Linked List With Next And Arbit Pointer",
+        "link": "https://www.geeksforgeeks.org/a-linked-list-with-next-and-arbit-pointer/"
+    },
+    {
+        "id": 285,
+        "name": "Point To Next Higher Value Node In A Linked List With An Arbitrary Pointer",
+        "link": "https://www.geeksforgeeks.org/point-to-next-higher-value-node-in-a-linked-list-with-an-arbitrary-pointer/"
+    },
+    {
+        "id": 286,
+        "name": "Rearrange A Given Linked List In Place",
+        "link": "https://www.geeksforgeeks.org/rearrange-a-given-linked-list-in-place/"
+    },
+    {
+        "id": 287,
+        "name": "Select A Random Node From A Singly Linked List",
+        "link": "https://www.geeksforgeeks.org/select-a-random-node-from-a-singly-linked-list/"
+    },
+    {
+        "id": 288,
+        "name": "Linked List In Zig Zag Fashion",
+        "link": "https://www.geeksforgeeks.org/linked-list-in-zig-zag-fashion/"
+    },
+    {
+        "id": 289,
+        "name": "Sort Linked List Already Sorted Absolute Values",
+        "link": "https://www.geeksforgeeks.org/sort-linked-list-already-sorted-absolute-values/"
+    },
+    {
+        "id": 290,
+        "name": "Merge K Sorted Linked Lists",
+        "link": "https://www.geeksforgeeks.org/merge-k-sorted-linked-lists/"
+    },
+    {
+        "id": 291,
+        "name": "Flatten A Multi Level Linked List Set 2 Depth Wise",
+        "link": "https://www.geeksforgeeks.org/flatten-a-multi-level-linked-list-set-2-depth-wise/"
+    },
+    {
+        "id": 292,
+        "name": "Subtract Two Numbers Represented As Linked Lists",
+        "link": "https://www.geeksforgeeks.org/subtract-two-numbers-represented-as-linked-lists/"
+    },
+    {
+        "id": 293,
+        "name": "Find Pair Given Sum Sorted Singly Linked Without Extra Space",
+        "link": "https://www.geeksforgeeks.org/find-pair-given-sum-sorted-singly-linked-without-extra-space/"
+    },
+    {
+        "id": 294,
+        "name": "Multiply Two Numbers Represented Linked Lists",
+        "link": "https://www.geeksforgeeks.org/multiply-two-numbers-represented-linked-lists/"
+    },
+    {
+        "id": 295,
+        "name": "Merge Two Sorted Lists Place",
+        "link": "https://www.geeksforgeeks.org/merge-two-sorted-lists-place/"
+    },
+    {
+        "id": 296,
+        "name": "Rotate Linked List Block Wise",
+        "link": "https://www.geeksforgeeks.org/rotate-linked-list-block-wise/"
+    },
+    {
+        "id": 297,
+        "name": "Josephus Circle Using Circular Linked List",
+        "link": "https://www.geeksforgeeks.org/josephus-circle-using-circular-linked-list/"
+    },
+    {
+        "id": 298,
+        "name": "Count Triplets Sorted Doubly Linked List Whose Sum Equal Given Value X",
+        "link": "https://www.geeksforgeeks.org/count-triplets-sorted-doubly-linked-list-whose-sum-equal-given-value-x/"
+    },
+    {
+        "id": 299,
+        "name": "Sort Biotonic Doubly Linked List",
+        "link": "https://www.geeksforgeeks.org/sort-biotonic-doubly-linked-list/"
+    },
+    {
+        "id": 300,
+        "name": "Check Mirror N Ary Tree",
+        "link": "https://www.geeksforgeeks.org/check-mirror-n-ary-tree/"
+    },
+    {
+        "id": 301,
+        "name": "Serialize Deserialize N Ary Tree",
+        "link": "https://www.geeksforgeeks.org/serialize-deserialize-n-ary-tree/"
+    },
+    {
+        "id": 302,
+        "name": "Immediate Smaller Element N Ary Tree",
+        "link": "https://www.geeksforgeeks.org/immediate-smaller-element-n-ary-tree/"
+    },
+    {
+        "id": 303,
+        "name": "Second Largest Element N Ary Tree",
+        "link": "https://www.geeksforgeeks.org/second-largest-element-n-ary-tree/"
+    },
+    {
+        "id": 304,
+        "name": "Node Maximum Sum Immediate Children N Ary Tree",
+        "link": "https://www.geeksforgeeks.org/node-maximum-sum-immediate-children-n-ary-tree/"
+    },
+    {
+        "id": 305,
+        "name": "Given N Ary Tree Count Number Nodes Number Children Parent",
+        "link": "https://www.geeksforgeeks.org/given-n-ary-tree-count-number-nodes-number-children-parent/"
+    },
+    {
+        "id": 306,
+        "name": "Construct Full K Ary Tree Preorder Traversal",
+        "link": "https://www.geeksforgeeks.org/construct-full-k-ary-tree-preorder-traversal/"
+    },
+    {
+        "id": 307,
+        "name": "Creating Tree Left Child Right Sibling Representation",
+        "link": "https://www.geeksforgeeks.org/creating-tree-left-child-right-sibling-representation/"
+    },
+    {
+        "id": 308,
+        "name": "Left Child Right Sibling Representation Tree",
+        "link": "https://www.geeksforgeeks.org/left-child-right-sibling-representation-tree/"
+    },
+    {
+        "id": 309,
+        "name": "Longest Path Undirected Tree",
+        "link": "https://www.geeksforgeeks.org/longest-path-undirected-tree/"
+    },
+    {
+        "id": 310,
+        "name": "Amazon Interview Question for Software Engineer in Tests",
+        "link": "https://www.careercup.com/question?id=10508082"
+    },
+    {
+        "id": 311,
+        "name": "Diameter N Ary Tree",
+        "link": "https://www.geeksforgeeks.org/diameter-n-ary-tree/"
+    },
+    {
+        "id": 312,
+        "name": "Clone Binary Tree Random Pointers",
+        "link": "https://www.geeksforgeeks.org/clone-binary-tree-random-pointers/"
+    },
+    {
+        "id": 313,
+        "name": "Count Subtress Sum Given Value X",
+        "link": "https://www.geeksforgeeks.org/count-subtress-sum-given-value-x/"
+    },
+    {
+        "id": 314,
+        "name": "Inorder Tree Traversal Without Recursion",
+        "link": "https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion/"
+    },
+    {
+        "id": 315,
+        "name": "Inorder Tree Traversal Without Recursion And Without Stack",
+        "link": "https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion-and-without-stack/"
+    },
+    {
+        "id": 316,
+        "name": "Morris Traversal For Preorder",
+        "link": "https://www.geeksforgeeks.org/morris-traversal-for-preorder/"
+    },
+    {
+        "id": 317,
+        "name": "Iterative Postorder Traversal",
+        "link": "https://www.geeksforgeeks.org/iterative-postorder-traversal/"
+    },
+    {
+        "id": 318,
+        "name": "Diagonal Traversal Of Binary Tree",
+        "link": "https://www.geeksforgeeks.org/diagonal-traversal-of-binary-tree/"
+    },
+    {
+        "id": 319,
+        "name": "Print Binary Tree Vertical Order",
+        "link": "https://www.geeksforgeeks.org/print-binary-tree-vertical-order/"
+    },
+    {
+        "id": 320,
+        "name": "Boundary Traversal Of Binary Tree",
+        "link": "https://www.geeksforgeeks.org/boundary-traversal-of-binary-tree/"
+    },
+    {
+        "id": 321,
+        "name": "Perfect Binary Tree Specific Level Order Traversal",
+        "link": "https://www.geeksforgeeks.org/perfect-binary-tree-specific-level-order-traversal/"
+    },
+    {
+        "id": 322,
+        "name": "Construct A Special Tree From Given Preorder Traversal",
+        "link": "https://www.geeksforgeeks.org/construct-a-special-tree-from-given-preorder-traversal/"
+    },
+    {
+        "id": 323,
+        "name": "Construct Tree From Ancestor Matrix",
+        "link": "https://www.geeksforgeeks.org/construct-tree-from-ancestor-matrix/"
+    },
+    {
+        "id": 324,
+        "name": "Construct Ancestor Matrix From A Given Binary Tree",
+        "link": "https://www.geeksforgeeks.org/construct-ancestor-matrix-from-a-given-binary-tree/"
+    },
+    {
+        "id": 325,
+        "name": "Construct A Binary Tree From Parent Array Representation",
+        "link": "https://www.geeksforgeeks.org/construct-a-binary-tree-from-parent-array-representation/"
+    },
+    {
+        "id": 326,
+        "name": "Create Doubly Linked List Ternary Ree",
+        "link": "https://www.geeksforgeeks.org/create-doubly-linked-list-ternary-ree/"
+    },
+    {
+        "id": 327,
+        "name": "In Place Convert A Given Binary Tree To Doubly Linked List",
+        "link": "https://www.geeksforgeeks.org/in-place-convert-a-given-binary-tree-to-doubly-linked-list/"
+    },
+    {
+        "id": 328,
+        "name": "Convert A Given Tree To Sum Tree",
+        "link": "https://www.geeksforgeeks.org/convert-a-given-tree-to-sum-tree/"
+    },
+    {
+        "id": 329,
+        "name": "Change A Binary Tree So That Every Node Stores Sum Of All Nodes In Left Subtree",
+        "link": "https://www.geeksforgeeks.org/change-a-binary-tree-so-that-every-node-stores-sum-of-all-nodes-in-left-subtree/"
+    },
+    {
+        "id": 330,
+        "name": "Convert A Binary Tree To A Circular Doubly Link List",
+        "link": "https://www.geeksforgeeks.org/convert-a-binary-tree-to-a-circular-doubly-link-list/"
+    },
+    {
+        "id": 331,
+        "name": "Convert Tree Forest Even Nodes",
+        "link": "https://www.geeksforgeeks.org/convert-tree-forest-even-nodes/"
+    },
+    {
+        "id": 332,
+        "name": "Lowest Common Ancestor Binary Tree Set 1",
+        "link": "https://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/"
+    },
+    {
+        "id": 333,
+        "name": "Find Distance Between Two Nodes Of A Binary Tree",
+        "link": "https://www.geeksforgeeks.org/find-distance-between-two-nodes-of-a-binary-tree/"
+    },
+    {
+        "id": 334,
+        "name": "Print Common Nodes Path Root Common Ancestors",
+        "link": "https://www.geeksforgeeks.org/print-common-nodes-path-root-common-ancestors/"
+    },
+    {
+        "id": 335,
+        "name": "Root To Leaf Path Sum Equal To A Given Number",
+        "link": "https://www.geeksforgeeks.org/root-to-leaf-path-sum-equal-to-a-given-number/"
+    },
+    {
+        "id": 336,
+        "name": "Populate Inorder Successor For All Nodes",
+        "link": "https://www.geeksforgeeks.org/populate-inorder-successor-for-all-nodes/"
+    },
+    {
+        "id": 337,
+        "name": "Connect Nodes At Same Level With O1 Extra Space",
+        "link": "https://www.geeksforgeeks.org/connect-nodes-at-same-level-with-o1-extra-space/"
+    },
+    {
+        "id": 338,
+        "name": "Connect Nodes At Same Level",
+        "link": "https://www.geeksforgeeks.org/connect-nodes-at-same-level/"
+    },
+    {
+        "id": 339,
+        "name": "Foldable Binary Trees",
+        "link": "https://www.geeksforgeeks.org/foldable-binary-trees/"
+    },
+    {
+        "id": 340,
+        "name": "Maximum Width Of A Binary Tree",
+        "link": "https://www.geeksforgeeks.org/maximum-width-of-a-binary-tree/"
+    },
+    {
+        "id": 341,
+        "name": "Double Tree",
+        "link": "https://www.geeksforgeeks.org/double-tree/"
+    },
+    {
+        "id": 342,
+        "name": "Find The Maximum Sum Path In A Binary Tree",
+        "link": "https://www.geeksforgeeks.org/find-the-maximum-sum-path-in-a-binary-tree/"
+    },
+    {
+        "id": 343,
+        "name": "Vertical Sum In A Given Binary Tree",
+        "link": "https://www.geeksforgeeks.org/vertical-sum-in-a-given-binary-tree/"
+    },
+    {
+        "id": 344,
+        "name": "Find Next Right Node Of A Given Key",
+        "link": "https://www.geeksforgeeks.org/find-next-right-node-of-a-given-key/"
+    },
+    {
+        "id": 345,
+        "name": "Deepest Left Leaf Node In A Binary Tree",
+        "link": "https://www.geeksforgeeks.org/deepest-left-leaf-node-in-a-binary-tree/"
+    },
+    {
+        "id": 346,
+        "name": "Connect Leaves Doubly Linked List",
+        "link": "https://www.geeksforgeeks.org/connect-leaves-doubly-linked-list/"
+    },
+    {
+        "id": 347,
+        "name": "Print Left View Binary Tree",
+        "link": "https://www.geeksforgeeks.org/print-left-view-binary-tree/"
+    },
+    {
+        "id": 348,
+        "name": "Custom Tree Problem",
+        "link": "https://www.geeksforgeeks.org/custom-tree-problem/"
+    },
+    {
+        "id": 349,
+        "name": "Reverse Alternate Levels Binary Tree",
+        "link": "https://www.geeksforgeeks.org/reverse-alternate-levels-binary-tree/"
+    },
+    {
+        "id": 350,
+        "name": "Print Nodes Distance K Given Node Binary Tree",
+        "link": "https://www.geeksforgeeks.org/print-nodes-distance-k-given-node-binary-tree/"
+    },
+    {
+        "id": 351,
+        "name": "Find Distance Between Two Nodes Of A Binary Tree",
+        "link": "https://www.geeksforgeeks.org/find-distance-between-two-nodes-of-a-binary-tree/"
+    },
+    {
+        "id": 352,
+        "name": "Diagonal Sum Binary Tree",
+        "link": "https://www.geeksforgeeks.org/diagonal-sum-binary-tree/"
+    },
+    {
+        "id": 353,
+        "name": "Tilt Binary Tree",
+        "link": "https://www.geeksforgeeks.org/tilt-binary-tree/"
+    },
+    {
+        "id": 354,
+        "name": "Find Height Binary Tree Represented Parent Array",
+        "link": "https://www.geeksforgeeks.org/find-height-binary-tree-represented-parent-array/"
+    },
+    {
+        "id": 355,
+        "name": "Remove Nodes Root Leaf Paths Length K",
+        "link": "https://www.geeksforgeeks.org/remove-nodes-root-leaf-paths-length-k/"
+    },
+    {
+        "id": 356,
+        "name": "Find Maximum Path Sum In A Binary Tree",
+        "link": "https://www.geeksforgeeks.org/find-maximum-path-sum-in-a-binary-tree/"
+    },
+    {
+        "id": 357,
+        "name": "Expression Tree",
+        "link": "https://www.geeksforgeeks.org/expression-tree/"
+    },
+    {
+        "id": 358,
+        "name": "Width Binary Tree Set 1",
+        "link": "https://www.geeksforgeeks.org/width-binary-tree-set-1/"
+    },
+    {
+        "id": 359,
+        "name": "Reverse Tree Path",
+        "link": "https://www.geeksforgeeks.org/reverse-tree-path/"
+    },
+    {
+        "id": 360,
+        "name": "Dynamic Programming Trees Set 2",
+        "link": "https://www.geeksforgeeks.org/dynamic-programming-trees-set-2/"
+    },
+    {
+        "id": 361,
+        "name": "Serialize Deserialize Binary Tree",
+        "link": "https://www.geeksforgeeks.org/serialize-deserialize-binary-tree/"
+    },
+    {
+        "id": 362,
+        "name": "Find Maximum Path Sum Two Leaves Binary Tree",
+        "link": "https://www.geeksforgeeks.org/find-maximum-path-sum-two-leaves-binary-tree/"
+    },
+    {
+        "id": 363,
+        "name": "Find Height Of A Special Binary Tree Whose Leaf Nodes Are Connected",
+        "link": "https://www.geeksforgeeks.org/find-height-of-a-special-binary-tree-whose-leaf-nodes-are-connected/"
+    },
+    {
+        "id": 364,
+        "name": "Construct Bst From Given Preorder Traversa",
+        "link": "https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/"
+    },
+    {
+        "id": 365,
+        "name": "Binary Tree To Binary Search Tree Conversion",
+        "link": "https://www.geeksforgeeks.org/binary-tree-to-binary-search-tree-conversion/"
+    },
+    {
+        "id": 366,
+        "name": "In Place Convert Bst Into A Min Heap",
+        "link": "https://www.geeksforgeeks.org/in-place-convert-bst-into-a-min-heap/"
+    },
+    {
+        "id": 367,
+        "name": "Construct Bst Given Level Order Traversal",
+        "link": "https://www.geeksforgeeks.org/construct-bst-given-level-order-traversal/"
+    },
+    {
+        "id": 368,
+        "name": "Check For Identical Bsts Without Building The Trees",
+        "link": "https://www.geeksforgeeks.org/check-for-identical-bsts-without-building-the-trees/"
+    },
+    {
+        "id": 369,
+        "name": "Kth Largest Element In Bst When Modification To Bst Is Not Allowed",
+        "link": "https://www.geeksforgeeks.org/kth-largest-element-in-bst-when-modification-to-bst-is-not-allowed/"
+    },
+    {
+        "id": 370,
+        "name": "Kth Smallest Element In Bst Using O1 Extra Space",
+        "link": "https://www.geeksforgeeks.org/kth-smallest-element-in-bst-using-o1-extra-space/"
+    },
+    {
+        "id": 371,
+        "name": "Check Whether Bst Contains Dead End Not",
+        "link": "https://www.geeksforgeeks.org/check-whether-bst-contains-dead-end-not/"
+    },
+    {
+        "id": 372,
+        "name": "Merge Two Balanced Binary Search Trees",
+        "link": "https://www.geeksforgeeks.org/merge-two-balanced-binary-search-trees/"
+    },
+    {
+        "id": 373,
+        "name": "Fix Two Swapped Nodes Of Bst",
+        "link": "https://www.geeksforgeeks.org/fix-two-swapped-nodes-of-bst/"
+    },
+    {
+        "id": 374,
+        "name": "Find If There Is A Triplet In Bst That Adds To 0",
+        "link": "https://www.geeksforgeeks.org/find-if-there-is-a-triplet-in-bst-that-adds-to-0/"
+    },
+    {
+        "id": 375,
+        "name": "Find A Pair With Given Sum In Bst",
+        "link": "https://www.geeksforgeeks.org/find-a-pair-with-given-sum-in-bst/"
+    },
+    {
+        "id": 376,
+        "name": "Remove Bst Keys Outside The Given Range",
+        "link": "https://www.geeksforgeeks.org/remove-bst-keys-outside-the-given-range/"
+    },
+    {
+        "id": 377,
+        "name": "Add Greater Values Every Node Given Bst",
+        "link": "https://www.geeksforgeeks.org/add-greater-values-every-node-given-bst/"
+    },
+    {
+        "id": 378,
+        "name": "Inorder Predecessor Successor Given Key Bst",
+        "link": "https://www.geeksforgeeks.org/inorder-predecessor-successor-given-key-bst/"
+    },
+    {
+        "id": 379,
+        "name": "Given N Appointments Find Conflicting Appointments",
+        "link": "https://www.geeksforgeeks.org/given-n-appointments-find-conflicting-appointments/"
+    },
+    {
+        "id": 380,
+        "name": "Data Structure For Future Reservations For A Single Resource",
+        "link": "https://www.geeksforgeeks.org/data-structure-for-future-reservations-for-a-single-resource/"
+    },
+    {
+        "id": 381,
+        "name": "Count Bst Subtrees That Lie In Given Range",
+        "link": "https://www.geeksforgeeks.org/count-bst-subtrees-that-lie-in-given-range/"
+    },
+    {
+        "id": 382,
+        "name": "Replace Every Element With The Least Greater Element On Its Right",
+        "link": "https://www.geeksforgeeks.org/replace-every-element-with-the-least-greater-element-on-its-right/"
+    },
+    {
+        "id": 383,
+        "name": "Find Closest Element Binary Search Tree",
+        "link": "https://www.geeksforgeeks.org/find-closest-element-binary-search-tree/"
+    },
+    {
+        "id": 384,
+        "name": "Sum K Smallest Elements Bst",
+        "link": "https://www.geeksforgeeks.org/sum-k-smallest-elements-bst/"
+    },
+    {
+        "id": 385,
+        "name": "Maximum Element Two Nodes Bst",
+        "link": "https://www.geeksforgeeks.org/maximum-element-two-nodes-bst/"
+    },
+    {
+        "id": 386,
+        "name": "Binary Search Tree Insert Parent Pointer",
+        "link": "https://www.geeksforgeeks.org/binary-search-tree-insert-parent-pointer/"
+    },
+    {
+        "id": 387,
+        "name": "Largest Bst Binary Tree Set 2",
+        "link": "https://www.geeksforgeeks.org/largest-bst-binary-tree-set-2/"
+    },
+    {
+        "id": 388,
+        "name": "Leaf Nodes Preorder Binary Search Tree",
+        "link": "https://www.geeksforgeeks.org/leaf-nodes-preorder-binary-search-tree/"
+    },
+    {
+        "id": 389,
+        "name": "Find Median Bst Time O1 Space",
+        "link": "https://www.geeksforgeeks.org/find-median-bst-time-o1-space/"
+    },
+    {
+        "id": 390,
+        "name": "Avl Tree Set 1 Insertion",
+        "link": "https://www.geeksforgeeks.org/avl-tree-set-1-insertion/"
+    },
+    {
+        "id": 391,
+        "name": "Avl Tree Set 2 Deletion",
+        "link": "https://www.geeksforgeeks.org/avl-tree-set-2-deletion/"
+    },
+    {
+        "id": 392,
+        "name": "K Largest(or Smallest) Elements In An Array | Added Min Heap Method",
+        "link": "https://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/"
+    },
+    {
+        "id": 393,
+        "name": "Next Greater Element",
+        "link": "https://www.geeksforgeeks.org/next-greater-element/"
+    },
+    {
+        "id": 394,
+        "name": "Kth Smallest/Largest Element In Unsorted Array",
+        "link": "https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/"
+    },
+    {
+        "id": 395,
+        "name": "Sliding Window Maximum (Maximum Of All Subarrays Of Size K)",
+        "link": "https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/"
+    },
+    {
+        "id": 396,
+        "name": "Find The Smallest Positive Number Missing From An Unsorted Array",
+        "link": "https://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/"
+    },
+    {
+        "id": 397,
+        "name": "Find The Maximum Repeating Number in O(n) Time And O(1) Extra Space",
+        "link": "https://www.geeksforgeeks.org/find-the-maximum-repeating-number-in-ok-time/"
+    },
+    {
+        "id": 398,
+        "name": "Online Algorithm For Checking Palindrome In A Stream",
+        "link": "https://www.geeksforgeeks.org/online-algorithm-for-checking-palindrome-in-a-stream/"
+    },
+    {
+        "id": 399,
+        "name": "Kth Largest Element In A Stream",
+        "link": "https://www.geeksforgeeks.org/kth-largest-element-in-a-stream/"
+    },
+    {
+        "id": 400,
+        "name": "K-th Smallest Element After Removing Some Integers From Natural Numbers",
+        "link": "https://www.geeksforgeeks.org/k-th-smallest-element-removing-integers-natural-numbers/"
+    },
+    {
+        "id": 401,
+        "name": "Find Surpasser Count Of Each Element In Array",
+        "link": "https://www.geeksforgeeks.org/find-surpasser-count-of-each-element-in-array/"
+    },
+    {
+        "id": 402,
+        "name": "A Pancake Sorting Question",
+        "link": "https://www.geeksforgeeks.org/a-pancake-sorting-question/"
+    },
+    {
+        "id": 403,
+        "name": "Choose k Array Elements Such That Difference Of Maximum And Minimum Is Minimized",
+        "link": "https://www.geeksforgeeks.org/k-numbers-difference-maximum-minimum-k-number-minimized/"
+    },
+    {
+        "id": 404,
+        "name": "Find k Closest Elements To A Given Value",
+        "link": "https://www.geeksforgeeks.org/find-k-closest-elements-given-value/"
+    },
+    {
+        "id": 405,
+        "name": "Tournament Tree And Binary Heap",
+        "link": "https://www.geeksforgeeks.org/tournament-tree-and-binary-heap/"
+    },
+    {
+        "id": 406,
+        "name": "Connect N Ropes with Minimum Cost",
+        "link": "https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/"
+    },
+    {
+        "id": 407,
+        "name": "Design An Efficient Data Structure For Given Operations",
+        "link": "https://www.geeksforgeeks.org/a-data-structure-question/"
+    },
+    {
+        "id": 408,
+        "name": "Cuckoo Hashing \u2013 Worst Case O(1) Lookup!",
+        "link": "https://www.geeksforgeeks.org/cuckoo-hashing/"
+    },
+    {
+        "id": 409,
+        "name": "Find Number Of Employees Under Every Manager",
+        "link": "https://www.geeksforgeeks.org/find-number-of-employees-under-every-manager/"
+    },
+    {
+        "id": 410,
+        "name": "Find Itinerary From A Given List Of Tickets",
+        "link": "https://www.geeksforgeeks.org/find-itinerary-from-a-given-list-of-tickets/"
+    },
+    {
+        "id": 411,
+        "name": "Check If An Array Can Be Divided Into Pairs Whose Sum Is Divisible By K",
+        "link": "https://www.geeksforgeeks.org/check-if-an-array-can-be-divided-into-pairs-whose-sum-is-divisible-by-k/"
+    },
+    {
+        "id": 412,
+        "name": "Find The Length Of Largest Subarray With 0 Sum",
+        "link": "https://www.geeksforgeeks.org/find-the-largest-subarray-with-0-sum/"
+    },
+    {
+        "id": 413,
+        "name": "Count Distinct Elements In Every Window Of Size K",
+        "link": "https://www.geeksforgeeks.org/count-distinct-elements-in-every-window-of-size-k/"
+    },
+    {
+        "id": 414,
+        "name": "Design A Data Structure That Supports Insert, Delete, Search And GetRandom In Constant Time",
+        "link": "https://www.geeksforgeeks.org/design-a-data-structure-that-supports-insert-delete-search-and-getrandom-in-constant-time/"
+    },
+    {
+        "id": 415,
+        "name": "Length of The Largest Subarray With Contiguous Elements",
+        "link": "https://www.geeksforgeeks.org/length-largest-subarray-contiguous-elements-set-2/"
+    },
+    {
+        "id": 416,
+        "name": "Group Shifted String",
+        "link": "https://www.geeksforgeeks.org/group-shifted-string/"
+    },
+    {
+        "id": 417,
+        "name": "Palindrome Substring Queries",
+        "link": "https://www.geeksforgeeks.org/palindrome-substring-queries/"
+    },
+    {
+        "id": 418,
+        "name": "Find Four Elements A, B, C and D in an array such that A+B = C+D",
+        "link": "https://www.geeksforgeeks.org/find-four-elements-a-b-c-and-d-in-an-array-such-that-ab-cd/"
+    },
+    {
+        "id": 419,
+        "name": "Subarrays With Distinct Elements",
+        "link": "https://www.geeksforgeeks.org/subarrays-distinct-elements/"
+    },
+    {
+        "id": 420,
+        "name": "Find Recurring Sequence In A Fraction",
+        "link": "https://www.geeksforgeeks.org/find-recurring-sequence-fraction/"
+    },
+    {
+        "id": 421,
+        "name": "K Maximum Sum Combinations From Two Arrays",
+        "link": "https://www.geeksforgeeks.org/k-maximum-sum-combinations-two-arrays/"
+    },
+    {
+        "id": 422,
+        "name": "Roads and Libraries",
+        "link": "https://www.hackerrank.com/challenges/torque-and-development/problem"
+    },
+    {
+        "id": 423,
+        "name": "Journey to the Moon",
+        "link": "https://www.hackerrank.com/challenges/journey-to-the-moon/problem"
+    },
+    {
+        "id": 424,
+        "name": "Even Tree",
+        "link": "https://www.hackerrank.com/challenges/even-tree/problem"
+    },
+    {
+        "id": 425,
+        "name": "Course Schedule II",
+        "link": "https://leetcode.com/problems/course-schedule-ii/description/"
+    },
+    {
+        "id": 426,
+        "name": "Mancunian And Liverbird Go Bar Hopping",
+        "link": "https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/mancunian-and-liverbird-go-bar-hopping-2/"
+    },
+    {
+        "id": 427,
+        "name": "Cheapest Flights Within K Stops",
+        "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops/description/"
+    },
+    {
+        "id": 428,
+        "name": "Dhoom 4",
+        "link": "https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/dhoom-4/"
+    },
+    {
+        "id": 429,
+        "name": "Monk And The Islands",
+        "link": "https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/monk-and-the-islands/"
+    },
+    {
+        "id": 430,
+        "name": "Connected Horses",
+        "link": "https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/connected-horses-10/"
+    },
+    {
+        "id": 431,
+        "name": "We Are On Fire",
+        "link": "https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/we-are-on-fire/"
+    },
+    {
+        "id": 432,
+        "name": "Mrinal And Three Musketeers",
+        "link": "https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/mrinal-and-three-musketeers-128f4c52/"
+    },
+    {
+        "id": 433,
+        "name": "Efficient Network",
+        "link": "https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/efficient-network/"
+    },
+    {
+        "id": 434,
+        "name": "Mr President",
+        "link": "https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/mr-president/"
+    },
+    {
+        "id": 435,
+        "name": "Chocolate Journey",
+        "link": "https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/successful-marathon-0691ec04/"
+    },
+    {
+        "id": 436,
+        "name": "Minimizing Path Cost",
+        "link": "https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/minimizing-path-cost/"
+    },
+    {
+        "id": 437,
+        "name": "Oliver And The Game",
+        "link": "https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-problems/algorithm/oliver-and-the-game-3/"
+    },
+    {
+        "id": 438,
+        "name": "Madmax",
+        "link": "http://codeforces.com/problemset/problem/917/B"
+    },
+    {
+        "id": 439,
+        "name": "Friend Circles Problem",
+        "link": "https://www.ideserve.co.in/learn/friend-circles-graph"
+    },
+    {
+        "id": 440,
+        "name": "Strongly Connected Components",
+        "link": "https://www.geeksforgeeks.org/strongly-connected-components/"
+    },
+    {
+        "id": 441,
+        "name": "Minimum Number Of Trials To Reach From Source Word To Destination Word",
+        "link": "https://www.ideserve.co.in/learn/minimum-trials-to-reach-from-source-to-destination-word"
+    },
+    {
+        "id": 442,
+        "name": "Longest Path in a Directed Acyclic Graph",
+        "link": "https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/"
+    },
+    {
+        "id": 443,
+        "name": "Find A Mother Vertex In A Graph",
+        "link": "https://www.geeksforgeeks.org/find-a-mother-vertex-in-a-graph/"
+    },
+    {
+        "id": 444,
+        "name": "Count All Possible Paths Between Two Vertices",
+        "link": "https://www.geeksforgeeks.org/count-possible-paths-two-vertices/"
+    },
+    {
+        "id": 445,
+        "name": "Water Jug Problem Using Bfs",
+        "link": "https://www.geeksforgeeks.org/water-jug-problem-using-bfs/"
+    },
+    {
+        "id": 446,
+        "name": "Detect Cycle In An Undirected Graph",
+        "link": "https://www.geeksforgeeks.org/detect-cycle-undirected-graph/"
+    },
+    {
+        "id": 447,
+        "name": "Detect Cycle in a Directed Graph",
+        "link": "https://www.geeksforgeeks.org/detect-cycle-in-a-graph/"
+    },
+    {
+        "id": 448,
+        "name": "Snake and Ladder Problem",
+        "link": "https://www.geeksforgeeks.org/snake-ladder-problem-2/"
+    },
+    {
+        "id": 449,
+        "name": "Given A Sorted Dictionary Of An Alien Language, Find Order Of Characters",
+        "link": "https://www.geeksforgeeks.org/given-sorted-dictionary-find-precedence-characters/"
+    },
+    {
+        "id": 450,
+        "name": "Print All Jumping Numbers Smaller Than Or Equal To A Given Value",
+        "link": "https://www.geeksforgeeks.org/print-all-jumping-numbers-smaller-than-or-equal-to-a-given-value/"
+    },
+    {
+        "id": 451,
+        "name": "Optimal Read List Given Number Days",
+        "link": "https://www.geeksforgeeks.org/optimal-read-list-given-number-days/"
+    },
+    {
+        "id": 452,
+        "name": "Count Number Of Trees In A Forest",
+        "link": "https://www.geeksforgeeks.org/count-number-trees-forest/"
+    },
+    {
+        "id": 453,
+        "name": "Construct Binary Palindrome By Repeated Appending And Trimming",
+        "link": "https://www.geeksforgeeks.org/construct-binary-palindrome-by-repeated-appending-and-trimming/"
+    },
+    {
+        "id": 454,
+        "name": "Find Eventual Safe States",
+        "link": "https://leetcode.com/problems/find-eventual-safe-states/description/"
+    },
+    {
+        "id": 455,
+        "name": "Madmax",
+        "link": "http://codeforces.com/problemset/problem/917/B"
+    },
+    {
+        "id": 456,
+        "name": "Equal",
+        "link": "https://www.hackerrank.com/challenges/equal/problem"
+    },
+    {
+        "id": 457,
+        "name": "Even Tree",
+        "link": "https://www.hackerrank.com/challenges/even-tree/problem"
+    },
+    {
+        "id": 458,
+        "name": "Find the two non-repeating elements in an array of repeating elements",
+        "link": "https://www.geeksforgeeks.org/find-two-non-repeating-elements-in-an-array-of-repeating-elements/"
+    },
+    {
+        "id": 459,
+        "name": "Count set bits in an integer",
+        "link": "https://www.geeksforgeeks.org/count-set-bits-in-an-integer/"
+    },
+    {
+        "id": 460,
+        "name": "Find the Number Occurring Odd Number of Times",
+        "link": "https://www.geeksforgeeks.org/find-the-number-occurring-odd-number-of-times/"
+    },
+    {
+        "id": 461,
+        "name": "Check if a number is Bleak",
+        "link": "https://www.geeksforgeeks.org/check-if-a-number-is-bleak/"
+    },
+    {
+        "id": 462,
+        "name": "Copy set bits in a range",
+        "link": "https://www.geeksforgeeks.org/copy-set-bits-in-a-range/"
+    },
+    {
+        "id": 463,
+        "name": "Write an Efficient Method to Check if a Number is Multiple of 3",
+        "link": "https://www.geeksforgeeks.org/write-an-efficient-method-to-check-if-a-number-is-multiple-of-3/"
+    },
+    {
+        "id": 464,
+        "name": "Find position of the only set bit",
+        "link": "https://www.geeksforgeeks.org/find-position-of-the-only-set-bit/"
+    },
+    {
+        "id": 465,
+        "name": "Binary representation of a given number",
+        "link": "https://www.geeksforgeeks.org/binary-representation-of-a-given-number/"
+    },
+    {
+        "id": 466,
+        "name": "Write an Efficient C Program to Reverse Bits of a Number",
+        "link": "https://www.geeksforgeeks.org/write-an-efficient-c-program-to-reverse-bits-of-a-number/"
+    },
+    {
+        "id": 467,
+        "name": "Count number of bits to be flipped to convert A to B",
+        "link": "https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/"
+    },
+    {
+        "id": 468,
+        "name": "Count total set bits in all numbers from 1 to n",
+        "link": "https://www.geeksforgeeks.org/count-total-set-bits-in-all-numbers-from-1-to-n/"
+    },
+    {
+        "id": 469,
+        "name": "Swap two nibbles in a byte",
+        "link": "https://www.geeksforgeeks.org/swap-two-nibbles-byte/"
+    },
+    {
+        "id": 470,
+        "name": "Find the element that appears once",
+        "link": "https://www.geeksforgeeks.org/find-the-element-that-appears-once/"
+    },
+    {
+        "id": 471,
+        "name": "Program to find whether a no is power of two",
+        "link": "https://www.geeksforgeeks.org/program-to-find-whether-a-no-is-power-of-two/"
+    },
+    {
+        "id": 472,
+        "name": "Sum of bit differences among all pairs",
+        "link": "https://www.geeksforgeeks.org/sum-of-bit-differences-among-all-pairs/"
+    },
+    {
+        "id": 473,
+        "name": "Generate n-bit Gray Codes",
+        "link": "https://www.geeksforgeeks.org/given-a-number-n-generate-bit-patterns-from-0-to-2n-1-so-that-successive-patterns-differ-by-one-bit/"
+    },
+    {
+        "id": 474,
+        "name": "Josephus problem",
+        "link": "https://www.geeksforgeeks.org/josephus-problem-set-1-a-on-solution/"
+    },
+    {
+        "id": 475,
+        "name": "A Boolean Array Puzzle",
+        "link": "https://www.geeksforgeeks.org/a-boolean-array-puzzle/"
+    },
+    {
+        "id": 476,
+        "name": "Swap all odd and even bits",
+        "link": "https://www.geeksforgeeks.org/swap-all-odd-and-even-bits/"
+    },
+    {
+        "id": 477,
+        "name": "Calculate 7n/8 without using division and multiplication operators",
+        "link": "https://www.geeksforgeeks.org/calculate-7n8-without-using-division-and-multiplication-operators/"
+    },
+    {
+        "id": 478,
+        "name": "Euclidean algorithms (Basic and Extended)",
+        "link": "https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/"
+    },
+    {
+        "id": 479,
+        "name": "Prime Factorization using Sieve O(log n) for multiple queries",
+        "link": "https://www.geeksforgeeks.org/prime-factorization-using-sieve-olog-n-multiple-queries/"
+    },
+    {
+        "id": 480,
+        "name": "Fermat\u2019s Last Theorem",
+        "link": "https://www.geeksforgeeks.org/fermats-last-theorem/"
+    },
+    {
+        "id": 481,
+        "name": "Matrix Exponentiation",
+        "link": "https://www.geeksforgeeks.org/matrix-exponentiation/"
+    },
+    {
+        "id": 482,
+        "name": "Chinese Remainder Theorem",
+        "link": "https://www.geeksforgeeks.org/chinese-remainder-theorem-set-1-introduction/"
+    },
+    {
+        "id": 483,
+        "name": "Birthday Paradox",
+        "link": "https://www.geeksforgeeks.org/birthday-paradox/"
+    },
+    {
+        "id": 484,
+        "name": "Program for nth Catalan Number",
+        "link": "https://www.geeksforgeeks.org/program-nth-catalan-number/"
+    },
+    {
+        "id": 485,
+        "name": "Pollard\u2019s Rho Algorithm for Prime Factorization",
+        "link": "https://www.geeksforgeeks.org/pollards-rho-algorithm-prime-factorization/"
+    },
+    {
+        "id": 486,
+        "name": "Euler\u2019s Totient Function",
+        "link": "https://www.geeksforgeeks.org/eulers-totient-function/"
+    },
+    {
+        "id": 487,
+        "name": "Sieve of Eratosthenes in 0(n) time complexity",
+        "link": "https://www.geeksforgeeks.org/sieve-eratosthenes-0n-time-complexity/"
+    },
+    {
+        "id": 488,
+        "name": "Orientation of 3 ordered points",
+        "link": "https://www.geeksforgeeks.org/orientation-3-ordered-points/"
+    },
+    {
+        "id": 489,
+        "name": "How to check if two given line segments intersect?",
+        "link": "https://www.geeksforgeeks.org/check-if-two-given-line-segments-intersect/"
+    },
+    {
+        "id": 490,
+        "name": "Convex Hull | Set 1 (Jarvis\u2019s Algorithm or Wrapping)",
+        "link": "https://www.geeksforgeeks.org/convex-hull-set-1-jarviss-algorithm-or-wrapping/"
+    },
+    {
+        "id": 491,
+        "name": "Find Simple Closed Path for a given set of points",
+        "link": "https://www.geeksforgeeks.org/find-simple-closed-path-for-a-given-set-of-points/"
+    },
+    {
+        "id": 492,
+        "name": "Convex Hull | Set 2 (Graham Scan)",
+        "link": "https://www.geeksforgeeks.org/convex-hull-set-2-graham-scan/"
+    },
+    {
+        "id": 493,
+        "name": "Quickhull Algorithm for Convex Hull",
+        "link": "https://www.geeksforgeeks.org/quickhull-algorithm-convex-hull/"
+    },
+    {
+        "id": 494,
+        "name": "Closest Pair of Points | O(nlogn) Implementation",
+        "link": "https://www.geeksforgeeks.org/closest-pair-of-points-onlogn-implementation/"
+    },
+    {
+        "id": 495,
+        "name": "The Skyline Problem using Divide and Conquer algorithm",
+        "link": "https://www.geeksforgeeks.org/divide-and-conquer-set-7-the-skyline-problem/"
+    },
+    {
+        "id": 496,
+        "name": "Given n line segments, find if any two segments intersect",
+        "link": "https://www.geeksforgeeks.org/given-a-set-of-line-segments-find-if-any-two-segments-intersect/"
+    },
+    {
+        "id": 497,
+        "name": "Line Sweep Technique",
+        "link": "https://www.hackerearth.com/practice/math/geometry/line-sweep-technique/tutorial/"
+    },
+    {
+        "id": 498,
+        "name": "Line Intersection using Bentley Ottmann Algorithm",
+        "link": "https://www.hackerearth.com/practice/math/geometry/line-intersection-using-bentley-ottmann-algorithm/tutorial/"
+    },
+    {
+        "id": 499,
+        "name": "Points Inside A Polygon",
+        "link": "https://www.codechef.com/FEB18/problems/POINPOLY"
+    },
+    {
+        "id": 500,
+        "name": "Sorting array of strings (or words) using Trie | Set-2 (Handling Duplicates)",
+        "link": "https://www.geeksforgeeks.org/sorting-array-strings-words-using-trie-set-2-handling-duplicates/"
+    },
+    {
+        "id": 501,
+        "name": "Word Break Problem",
+        "link": "https://www.geeksforgeeks.org/word-break-problem-trie-solution/"
+    },
+    {
+        "id": 502,
+        "name": "Given a sequence of words, print all anagrams together",
+        "link": "https://www.geeksforgeeks.org/given-a-sequence-of-words-print-all-anagrams-together-set-2/"
+    },
+    {
+        "id": 503,
+        "name": "Implement a Phone Directory",
+        "link": "https://www.geeksforgeeks.org/implement-a-phone-directory/"
+    },
+    {
+        "id": 504,
+        "name": "Print all words matching a pattern in CamelCase Notation Dictonary",
+        "link": "https://www.geeksforgeeks.org/print-words-matching-pattern-camelcase-notation-dictonary/"
+    },
+    {
+        "id": 505,
+        "name": "Print unique rows in a given boolean matrix",
+        "link": "https://www.geeksforgeeks.org/print-unique-rows/"
+    },
+    {
+        "id": 506,
+        "name": "Count of distinct substrings of a string using Suffix Trie",
+        "link": "https://www.geeksforgeeks.org/count-distinct-substrings-string-using-suffix-trie/"
+    },
+    {
+        "id": 507,
+        "name": "Union Find",
+        "link": "https://www.geeksforgeeks.org/tag/union-find/"
+    },
+    {
+        "id": 508,
+        "name": "Disjoint Set (Or Union-Find) | Set 1 (Detect Cycle in an Undirected Graph)",
+        "link": "https://www.geeksforgeeks.org/union-find/"
+    }
+]

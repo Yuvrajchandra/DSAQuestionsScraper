@@ -67,6 +67,9 @@ def scrape():
     print(len(questions_data))
 
 
+    with open('data.json', 'w') as f:
+        json.dump(questions_data, f, indent = 4)
+
 
 
 
